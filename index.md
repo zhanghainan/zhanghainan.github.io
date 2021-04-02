@@ -5,7 +5,7 @@
 NAACL2021长文收录：Augmenting Knowledge-grounded Conversations with Sequential Knowledge Transition. https://www.zhihu.com/people/zhang-hai-nan-30
 
 ### 发表论文
-1. Haolan Zhan, Hainan Zhang, Hongshen Chen, Lei Shen, Zhuoye Ding, Weipeng Yan, Yanyan Lan. Augmenting Knowledge-grounded Conversations with Sequential Knowledge Transition.[C]//NAACL 2021.
+1. Haolan Zhan, <font size=4>Hainan Zhang*</font>, Hongshen Chen, Lei Shen, Zhuoye Ding, Weipeng Yan, Yanyan Lan. Augmenting Knowledge-grounded Conversations with Sequential Knowledge Transition.[C]//NAACL 2021.
 2. Haolan Zhan, Hainan Zhang, Hongshen Chen, Lei Shen, Yanyan Lan, Zhuoye Ding and Dawei Yin. Probing Product Description Generation via Posterior Distillation[C]//AAAI 2021.
 3. Haolan Zhan, Hainan Zhang, Hongshen Chen, Lei Shen, Yanyan Lan, Zhuoye Ding and Dawei Yin. Probing Product Description Generation via Posterior Distillation[C]//AAAI 2021.
 4. Haolan Zhan, Hainan Zhang, Hongshen Chen, Lei Shen, Yanyan Lan, Zhuoye Ding and Dawei Yin. User-Inspired Posterior Network for Recommendation Reason Generation[C]//In Proceedings of 43rd Annual ACM SIGIR Conference on Research and Development in Information Retrieval(SIGIR 2020)
