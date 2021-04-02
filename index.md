@@ -18,11 +18,11 @@ NAACL2021长文收录：Augmenting Knowledge-grounded Conversations with Sequent
 11. 郝长盈、兰艳艳、张海楠、郭嘉丰、徐君、程学旗. 基于拓展关键词信息的对话生成模型[J]. 山东大学学报（理工版）, 2019.
 
 ### 专利
-1.Hainan Zhang, Hongshen Chen, Zhuoye Ding. 一种知识转移的对话生成方法和系统. 
-2.Hainan Zhang, Hongshen Chen, Zhuoye Ding, Yongjun Bao, Bo Long. 一种商品文案自动生成方法和系统. 
-3.Hainan Zhang, Hongshen Chen, Zhuoye Ding, Yongjun Bao, Weipeng Yan. 一种商品推荐理由自动生成方法和系统.
+1. Hainan Zhang, Hongshen Chen, Zhuoye Ding. 一种知识转移的对话生成方法和系统. 
+2. Hainan Zhang, Hongshen Chen, Zhuoye Ding, Yongjun Bao, Bo Long. 一种商品文案自动生成方法和系统. 
+3. Hainan Zhang, Hongshen Chen, Zhuoye Ding, Yongjun Bao, Weipeng Yan. 一种商品推荐理由自动生成方法和系统.
 
 ### 指导学生
-Haolan Zhan, 在读博士，墨尔本大学
-Xu Wang，在读博士，北京邮电大学
-Haoran Xu,在读硕士，中科院计算所
+* Haolan Zhan, 在读博士，墨尔本大学
+* Xu Wang，在读博士，北京邮电大学
+* Haoran Xu,在读硕士，中科院计算所
