@@ -3,11 +3,11 @@
 
 ### 近期学术News
 EMNLP2021长文收录4篇：
-                     
-                     Adaptive Bridge between Training and Inference for Dialogue Generation.
-                     FCM: A Fine-grained Comparison Model for Multi-turn Dialogue Reasoning.
-                     CoLA: A Collaborative Latent Variable Model for Knowledge-Grounded Conversations.
-                     Topic-Aware Contrastive Learning for Abstractive Dialogue Summarization.
+1. Adaptive Bridge between Training and Inference for Dialogue Generation. 
+2. FCM: A Fine-grained Comparison Model for Multi-turn Dialogue Reasoning. 
+3. CoLA: A Collaborative Latent Variable Model for Knowledge-Grounded Conversations. 
+4. Topic-Aware Contrastive Learning for Abstractive Dialogue Summarization. 
+
 NAACL2021长文收录：Augmenting Knowledge-grounded Conversations with Sequential Knowledge Transition. https://www.zhihu.com/people/zhang-hai-nan-30
 
 ### 发表论文
