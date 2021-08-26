@@ -2,7 +2,9 @@
 张海楠于2019年获得中国科学院计算技术研究所博士学位。博士毕业后，就职于京东推荐研发部，任算法工程师。目前主要研究方向为：文本生成、对话系统、电商场景的内容生成等。近三年在包括ACL、SIGIR、AAAI、IJCAI等国际学术会议和期刊上，以第一作者和通讯作者发表论文10篇(CCF A类论文6篇)，获得国家发明专利3项，并获得中国科学院院长优秀奖、中科院计算所所长特别奖。受邀担任ACL、AAAI、IJCAI、SIGIR、CIKM等会议审稿人。
 
 ### 近期学术News
-EMNLP2021长文收录4篇：Adaptive Bridge between Training and Inference for Dialogue Generation.
+EMNLP2021长文收录4篇：
+                     
+                     Adaptive Bridge between Training and Inference for Dialogue Generation.
                      FCM: A Fine-grained Comparison Model for Multi-turn Dialogue Reasoning.
                      CoLA: A Collaborative Latent Variable Model for Knowledge-Grounded Conversations.
                      Topic-Aware Contrastive Learning for Abstractive Dialogue Summarization.
