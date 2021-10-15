@@ -1,5 +1,5 @@
 ## 个人介绍
-张海楠于2019年获得中国科学院计算技术研究所博士学位。博士毕业后，就职于京东推荐研发部，任算法工程师。目前主要研究方向为：文本生成、对话系统、电商场景的内容生成等。近三年在包括ACL、SIGIR、AAAI、IJCAI等国际学术会议和期刊上，以第一作者和通讯作者发表论文10篇(CCF A类论文6篇)，获得国家发明专利3项，并获得中国科学院院长优秀奖、中科院计算所所长特别奖。受邀担任ACL、AAAI、IJCAI、SIGIR、CIKM等会议审稿人。
+张海楠于2019年获得中国科学院计算技术研究所博士学位。博士毕业后，就职于京东推荐研发部，任算法工程师。目前主要研究方向为：文本生成、对话系统、电商场景的内容生成等。近三年在包括ACL、SIGIR、AAAI、IJCAI等国际学术会议和期刊上，以第一作者和通讯作者发表论文12篇(CCF A类论文6篇)，获得国家发明专利5项，并获得中国科学院院长优秀奖、中科院计算所所长特别奖。受邀担任ACL、AAAI、IJCAI、SIGIR、CIKM等会议审稿人。
 
 ### 近期学术News
 EMNLP2021长文收录4篇：
@@ -31,8 +31,12 @@ NAACL2021长文收录：Augmenting Knowledge-grounded Conversations with Sequent
 1. Hainan Zhang, Hongshen Chen, Zhuoye Ding. 一种知识转移的对话生成方法和系统. 
 2. Hainan Zhang, Hongshen Chen, Zhuoye Ding, Yongjun Bao, Bo Long. 一种商品文案自动生成方法和系统. 
 3. Hainan Zhang, Hongshen Chen, Zhuoye Ding, Yongjun Bao, Weipeng Yan. 一种商品推荐理由自动生成方法和系统.
+4. Hainan Zhang, Yanyan Zou, Hongshen Chen, Zhuoye Ding, Bo Long. 一种细粒度对比的多轮对话推理方法和系统.
+5. Hainan Zhang, Yanyan Zou, Hongshen Chen, Zhuoye Ding, Bo Long. 一种自适应训练与预测的对话生成方法和系统.
 
 ### 指导学生
 * Haolan Zhan, 在读博士，莫纳什大学
 * Xu Wang，在读博士，北京邮电大学
 * Haoran Xu,在读硕士，中科院计算所
+* Haotian Wu, 在读本科，北京交通大学
+* Yue Fang, 在读硕士，北京邮电大学
