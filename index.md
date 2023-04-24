@@ -49,3 +49,7 @@ EMNLP2021长文收录4篇：
 * Haoran Xu,在读硕士，中科院计算所
 * Haotian Wu, 在读本科，北京交通大学
 * Yue Fang, 在读硕士，北京邮电大学
+
+### 与我联系
+zhanghainan@buaa.edu.cn
+zhanghainan1990@163.com
