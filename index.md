@@ -8,12 +8,6 @@ Neurocomputing2023期刊收录：HiBERT: Detecting the illogical patterns with h
 
 NAACL2022长文收录：From spoken dialogue to formal summary: An utterance rewriting for dialogue summarization.
 
-EMNLP2021长文收录4篇：
-1. Adaptive Bridge between Training and Inference for Dialogue Generation. 
-2. FCM: A Fine-grained Comparison Model for Multi-turn Dialogue Reasoning. 
-3. CoLA: A Collaborative Latent Variable Model for Knowledge-Grounded Conversations. 
-4. Topic-Aware Contrastive Learning for Abstractive Dialogue Summarization. 
-
 ### 发表论文
 1. Xu Wang, **Hainan Zhang#**, Shuai Zhao, Hongshen Chen, Bo Cheng, Zhuoye Ding, Sulong Xu, Weipeng Yan, Yanyan Lan. HiBERT: Detecting the illogical patterns with hierarchical BERT for multi-turn dialogue reasoning[J]. Neurocomputing, 2023, 524: 167-177.
 2. Yue Fang, **Hainan Zhang**, Hongshen Chen, Zhuoye Ding, Bo Long, Yanyan Lan, Yanquan Zhou. From spoken dialogue to formal summary: An utterance rewriting for dialogue summarization.// NAACL2022.
