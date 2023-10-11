@@ -11,7 +11,7 @@ Neurocomputing2023期刊收录：HiBERT: Detecting the illogical patterns with h
 ### 发表论文
 1. Zhiping Wang, Pen Lin, **Hainan Zhang#**, Hongshen Chen, Tianhao Li, Zhuoye Ding, Sulong Xu and Jinghe Hu. Automatic Marketing Theme and Commodity Construction System for E-commerce.// EMNLP2023.
 2. Xu Wang, **Hainan Zhang#**, Shuai Zhao, Hongshen Chen, Bo Cheng, Zhuoye Ding, Sulong Xu, Weipeng Yan, Yanyan Lan. HiBERT: Detecting the illogical patterns with hierarchical BERT for multi-turn dialogue reasoning[J]. Neurocomputing, 2023, 524: 167-177.
-3. Yue Fang, **Hainan Zhang**, Hongshen Chen, Zhuoye Ding, Bo Long, Yanyan Lan, Yanquan Zhou. From spoken dialogue to formal summary: An utterance rewriting for dialogue summarization.// NAACL2022.
+3. Yue Fang, **Hainan Zhang#**, Hongshen Chen, Zhuoye Ding, Bo Long, Yanyan Lan, Yanquan Zhou. From spoken dialogue to formal summary: An utterance rewriting for dialogue summarization.// NAACL2022.
 4. Xueying Zhang, Yanyan Zou, **Hainan Zhang**, Jing Zhou, Shiliang Diao, Jiajia Chen, Zhuoye Ding, Zhen He, Xueqi He, Yun Xiao, Bo Long, Han Yu, Lingfei Wu. Automatic Product Copywriting for E-Commerce[C].// AAAI2022.
 5. Haoran Xu, **Hainan Zhang#**, Yanyan Zou, Hongshen Chen, Zhuoye Ding and Yanyan Lan. Adaptive Bridge between Training and Inference for Dialogue Generation.[C]//EMNLP 2021.
 6. Xu Wang, **Hainan Zhang#**, Shuai Zhao, Yanyan Zou, Hongshen Chen, Zhuoye Ding, Bo Cheng and Yanyan Lan. FCM: A Fine-grained Comparison Model for Multi-turn Dialogue Reasoning.[C]//EMNLP 2021.
@@ -48,7 +48,7 @@ Neurocomputing2023期刊收录：HiBERT: Detecting the illogical patterns with h
 * Haolan Zhan, 在读博士，莫纳什大学
 * Xu Wang, 教师, 河北工业大学
 * Haoran Xu,算法工程师, 拼多多
-* Yue Fang, 在读博士，北京邮电大学
+* Yue Fang, 在读博士，北京大学
 
 ### 与我联系
 zhanghainan@buaa.edu.cn
