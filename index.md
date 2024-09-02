@@ -11,7 +11,7 @@ TASLP2023 期刊收录：Debiasing Counterfactual Context with Causal Inference 
 EMNLP2023 Industry Track收录：Automatic Marketing Theme and Commodity Construction System for E-commerce.
 
 ### 发表论文
-1. Xu Wang, **Hainan Zhang#**, Shuai Zhao, Hongshen Chen, Zhuoye Ding, Zhiguo Wan, Bo Cheng, and Yanyan Lan. Debiasing Counterfactual Context with Causal Inference for Multi-turn Dialogue Reasoning[J]. IEEE Transactions on Audio, Speech and Language Processing, 2023. <font color='red'>(CCF B)</font>
+1. Xu Wang, **Hainan Zhang#**, Shuai Zhao, Hongshen Chen, Zhuoye Ding, Zhiguo Wan, Bo Cheng, and Yanyan Lan. Debiasing Counterfactual Context with Causal Inference for Multi-turn Dialogue Reasoning[J]. IEEE Transactions on Audio, Speech and Language Processing, 2023. **(CCF B)**
 2. Zhiping Wang, Pen Lin, **Hainan Zhang#**, Hongshen Chen, Tianhao Li, Zhuoye Ding, Sulong Xu and Jinghe Hu. Automatic Marketing Theme and Commodity Construction System for E-commerce.// EMNLP2023. *(CCF B)*
 3. Xu Wang, **Hainan Zhang#**, Shuai Zhao, Hongshen Chen, Bo Cheng, Zhuoye Ding, Sulong Xu, Weipeng Yan, Yanyan Lan. HiBERT: Detecting the illogical patterns with hierarchical BERT for multi-turn dialogue reasoning[J]. Neurocomputing, 2023, 524: 167-177. *(CCF C)*
 4. Yue Fang, **Hainan Zhang#**, Hongshen Chen, Zhuoye Ding, Bo Long, Yanyan Lan, Yanquan Zhou. From spoken dialogue to formal summary: An utterance rewriting for dialogue summarization.// NAACL2022. *(CCF B)*
