@@ -1,14 +1,14 @@
 ## 个人介绍
-张海楠于2019年获得中国科学院计算技术研究所博士学位。博士毕业后，就职于京东推荐研发部，任算法工程师。2023年加入北京航空航天大学人工智能研究院未来区块链与隐私计算高精尖创新中心，任副研究员。目前主要研究方向为：隐私计算、文本生成、对话系统等。在包括ACL、SIGIR、AAAI、IJCAI等国际学术会议和期刊上，以第一作者和通讯作者发表论文16篇(CCF A类论文6篇)，申请国家发明专利7项，并获得AAAI-IAAI2022人工智能创新应用奖、中国科学院院长优秀奖、中科院计算所所长特别奖。受邀担任ACL、AAAI、IJCAI、SIGIR、CIKM等会议审稿人。
+张海楠于2019年获得中国科学院计算技术研究所博士学位。博士毕业后，就职于京东推荐研发部，任算法工程师。2023年加入北京航空航天大学人工智能学院未来区块链与隐私计算高精尖创新中心，任副研究员。目前主要研究方向为：自然语言生成、隐私计算、代码生成、对话系统等。在包括ACL、SIGIR、AAAI、IJCAI等国际学术会议和期刊上，以第一作者和通讯作者发表论文16篇(CCF A类论文6篇)，申请国家发明专利7项，并获得AAAI-IAAI2022人工智能创新应用奖、中国科学院院长优秀奖、中科院计算所所长特别奖。受邀担任ACL、AAAI、IJCAI、SIGIR、CIKM等会议审稿人。
 
-Hainan Zhang, received her Ph.D. from the Institute of Computing Technology, Chinese Academy of Sciences in 2019. After graduation, she worked as an algorithm engineer in the R&D department, JD.com. In 2023, she joined the Future Blockchain and Privacy Computing Advanced Innovation Center of the Artificial Intelligence Research Institute of Beijing University of Aeronautics and Astronautics as an Associate Researcher. Her main research directions are: privacy computing, text generation, dialogue generation, etc. In recent years, she has published 16 papers as the first author and corresponding author in NLP top conferences and journals, including ACL, SIGIR, AAAI, IJCAI. What'more, she also obtained 7 national invention patents, the excellence award of the president of the Chinese Academy of Sciences and the special award of the director of the Institute of computing of the Chinese Academy of Sciences. She was invited to serve as a PC for ACL, AAAI, IJCAI, SIGIR, CIKM and other conferences.
+Hainan Zhang, received her Ph.D. from the Institute of Computing Technology, Chinese Academy of Sciences in 2019. After graduation, she worked as an algorithm engineer in the R&D department, JD.com. In 2023, she joined the Future Blockchain and Privacy Computing Advanced Innovation Center of the Artificial Intelligence Research Institute of Beijing University of Aeronautics and Astronautics as an Associate Researcher. Her main research directions are: natural language generation, privacy computing, code generation, dialogue generation, etc. In recent years, she has published 16 papers as the first author and corresponding author in NLP top conferences and journals, including ACL, SIGIR, AAAI, IJCAI. What'more, she also obtained 7 national invention patents, the excellence award of the president of the Chinese Academy of Sciences and the special award of the director of the Institute of computing of the Chinese Academy of Sciences. She was invited to serve as a PC for ACL, AAAI, IJCAI, SIGIR, CIKM and other conferences.
 
 ### 近期学术News
+国家自然科学基金青年项目：面向隐私数据的对话生成模型协同训练机制研究
+
 TASLP2023 期刊收录：Debiasing Counterfactual Context with Causal Inference for Multi-turn Dialogue Reasoning
 
 EMNLP2023 Industry Track收录：Automatic Marketing Theme and Commodity Construction System for E-commerce.
-
-Neurocomputing2023期刊收录：HiBERT: Detecting the illogical patterns with hierarchical BERT for multi-turn dialogue reasoning
 
 ### 发表论文
 1. Xu Wang, **Hainan Zhang#**, Shuai Zhao, Hongshen Chen, Zhuoye Ding, Zhiguo Wan, Bo Cheng, and Yanyan Lan. Debiasing Counterfactual Context with Causal Inference for Multi-turn Dialogue Reasoning[J]. IEEE Transactions on Audio, Speech and Language Processing, 2023.
