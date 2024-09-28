@@ -6,7 +6,7 @@ Hainan Zhang, received her Ph.D. from the Institute of Computing Technology, Chi
 ### 近期学术News
 EMNLP2024 Main收录：Safely Learning with Private Data: A Federated Learning Framework for Large Language Model
 
-国家自然科学基金青年项目：面向隐私数据的对话生成模型协同训练机制研究
+2024年国家自然科学基金青年项目：面向隐私数据的对话生成模型协同训练机制研究
 
 TASLP2023 期刊收录：Debiasing Counterfactual Context with Causal Inference for Multi-turn Dialogue Reasoning
 
@@ -35,6 +35,12 @@ EMNLP2023 Industry Track收录：Automatic Marketing Theme and Commodity Constru
 20. **张海楠**, 伍大勇, 刘悦, 程学旗. 基于深度神经网络的中文命名实体识别[J]. 中文信息学报, 2017, 31(4): 28-35.
 21. 郝长盈、兰艳艳、**张海楠**、郭嘉丰、徐君、程学旗. 基于拓展关键词信息的对话生成模型[J]. 山东大学学报（理工版）, 2019.
 
+### 预印论文
+1. Yujing Wang, **Hainan Zhang#**, Sijia Wen, Wangjie Qiu and Binghui Guo. Defending Against Sophisticated Poisoning Attacks with RL-based Aggregation in Federated Learning[J]. arXiv preprint arXiv:2406.14217, 2024.
+2. Yujing Wang, **Hainan Zhang#**, Liang Pang, Hongwei Zheng, Zhiming Zheng. MaFeRw: Query Rewriting with Multi-Aspect Feedbacks for Retrieval-Augmented Large Language Models[J]. arXiv preprint arXiv:2408.17072, 2024.
+3. Qianchi Zhang, **Hainan Zhang#**, Liang Pang, Hongwei Zheng, Zhiming Zheng. AdaComp: Extractive Context Compression with Adaptive Predictor for Retrieval-Augmented Large Language Models[J]. arXiv preprint arXiv:2409.01579, 2024.
+4. Cheng Qian, **Hainan Zhang#**, Lei Sha,  Zhiming Zheng. HSF: Defending against Jailbreak Attacks with Hidden State Filtering[J]. arXiv preprint arXiv:2409.03788, 2024.
+   
 ### 专利
 1. Hainan Zhang, Xu Wang, Hongshen Chen, Zhuoye Ding, Lingfei Wu, Bo Long. 一种商品文案一致性检测的方法和系统.
 2. Hainan Zhang, Hongshen Chen, Zhuoye Ding, Bo Long. 一种基于上下文改写的对话摘要方法和系统.
