@@ -6,11 +6,11 @@ Hainan Zhang, received her Ph.D. from the Institute of Computing Technology, Chi
 ### 近期学术News
 AAAI2025 Main收录3篇：
 
-                     (1) MaFeRw: Query Rewriting with Multi-Aspect Feedbacks for Retrieval-Augmented Large Language Models
+(1) MaFeRw: Query Rewriting with Multi-Aspect Feedbacks for Retrieval-Augmented Large Language Models
 
-                     (2) Defending Against Sophisticated Poisoning Attacks with RL-based Aggregation in Federated Learning
+(2) Defending Against Sophisticated Poisoning Attacks with RL-based Aggregation in Federated Learning
                      
-                     (3) High-Fidelity Polarimetric Implicit 3D Reconstruction with View-Dependent Physical Representation
+(3) High-Fidelity Polarimetric Implicit 3D Reconstruction with View-Dependent Physical Representation
 
 EMNLP2024 Main收录：Safely Learning with Private Data: A Federated Learning Framework for Large Language Model
 
@@ -62,7 +62,7 @@ EMNLP2024 Main收录：Safely Learning with Private Data: A Federated Learning F
 ### 在读学生
 * Jiaying Zheng, 在读博士, 北京航空航天大学
 * Lingxiang Wang, 在读博士, 北京航空航天大学
-* Yujing Wang一种利用隐藏状态过滤的防隐私攻击方法及装置, 在读硕士, 北京航空航天大学
+* Yujing Wang, 在读硕士, 北京航空航天大学
 * Qianchi Zhang, 在读硕士, 北京航空航天大学
 * Zishuai Zhang, 在读硕士, 北京航空航天大学
 * Cheng Qian, 在读硕士, 北京航空航天大学
