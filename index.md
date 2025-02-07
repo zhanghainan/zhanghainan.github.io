@@ -17,7 +17,7 @@ AAAI2025 Main收录3篇：
 EMNLP2024 Main收录：Safely Learning with Private Data: A Federated Learning Framework for Large Language Model
 
 ### 发表论文
-1.**(CCF A)** Cheng Qian, **Hainan Zhang#**, Lei Sha. HSF: Defending against Jailbreak Attacks with Hidden State Filtering.[C]//WWW2025 Workshop. 
+1. **(CCF A)** Cheng Qian, **Hainan Zhang#**, Lei Sha. HSF: Defending against Jailbreak Attacks with Hidden State Filtering.[C]//WWW2025 Workshop. 
 2. **(CCF A)** Yujing Wang, **Hainan Zhang#**, Liang Pang, Hongwei Zheng, Zhiming Zheng. MaFeRw: Query Rewriting with Multi-Aspect Feedbacks for Retrieval-Augmented Large Language Models.[C]//AAAI2025. 
 3. **(CCF A)** Yujing Wang, **Hainan Zhang#**, Sijia Wen, Wangjie Qiu, Binghui Guo. Defending Against Sophisticated Poisoning Attacks with RL-based Aggregation in Federated Learning.[C]//AAAI2025. 
 4. **(CCF A)** Yu Qiu, Sijia Wen, **Hainan Zhang**, Zhiming Zheng. High-Fidelity Polarimetric Implicit 3D Reconstruction with View-Dependent Physical Representation. [C]//AAAI2025.
