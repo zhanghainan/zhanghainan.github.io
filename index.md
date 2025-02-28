@@ -46,6 +46,7 @@ EMNLP2024 Main收录：Safely Learning with Private Data: A Federated Learning F
 
 ### 预印论文
 1. Qianchi Zhang, **Hainan Zhang#**, Liang Pang, Hongwei Zheng, Zhiming Zheng. AdaComp: Extractive Context Compression with Adaptive Predictor for Retrieval-Augmented Large Language Models[J]. arXiv preprint arXiv:2409.01579, 2024.
+2. Qianchi Zhang, **Hainan Zhang#**, Liang Pang, Hongwei Zheng, Yongxin Tong, Zhiming Zheng. FineFilter: A Fine-grained Noise Filtering Mechanism for Retrieval-Augmented Large Language Models[J]. arXiv preprint arXiv:2502.11811, 2025.
    
 ### 专利
 1. 张海楠等. 一种基于强化学习的自适应聚合防御复杂投毒攻击方法.
