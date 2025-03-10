@@ -1,5 +1,5 @@
 ## 个人介绍
-张海楠于2019年获得中国科学院计算技术研究所博士学位。博士毕业后，就职于京东推荐研发部，任算法工程师。2023年加入北京航空航天大学人工智能学院未来区块链与隐私计算高精尖创新中心，任副研究员。目前主要研究方向为：自然语言生成、隐私计算、代码生成、对话系统等。在包括ACL、SIGIR、AAAI、EMNLP等国际学术会议和期刊上，以第一作者和通讯作者发表论文20余篇(其中CCF A类论文9篇, CCF B类论文7篇)，申请国家发明专利10项，并获得AAAI-IAAI2022人工智能创新应用奖、中国科学院院长优秀奖、中科院计算所所长特别奖。受邀担任ACL、AAAI、IJCAI、SIGIR、CIKM等会议审稿人。
+张海楠于2019年获得中国科学院计算技术研究所博士学位。博士毕业后，就职于京东推荐研发部，任算法工程师。2023年加入北京航空航天大学人工智能学院未来区块链与隐私计算高精尖创新中心，任副研究员。目前主要研究方向为：自然语言生成、隐私计算、代码生成、对话系统等。在包括ACL、SIGIR、AAAI、EMNLP等国际学术会议和期刊上，以第一作者和通讯作者发表论文20余篇(其中CCF A类论文9篇, CCF B类论文7篇)，申请国家发明专利10余项，并获得AAAI-IAAI2022人工智能创新应用奖、中国科学院院长优秀奖、中科院计算所所长特别奖。受邀担任ACL、AAAI、IJCAI、SIGIR、CIKM等会议审稿人。
 
 Hainan Zhang, received her Ph.D. from the Institute of Computing Technology, Chinese Academy of Sciences in 2019. After graduation, she worked as an algorithm engineer in the R&D department, JD.com. In 2023, she joined the Future Blockchain and Privacy Computing Advanced Innovation Center of the Artificial Intelligence Research Institute of Beijing University of Aeronautics and Astronautics as an Associate Researcher. Her main research directions are: natural language generation, privacy computing, code generation, dialogue generation, etc. In recent years, she has published 20+ papers as the first author and corresponding author in NLP top conferences and journals, including ACL, SIGIR, AAAI, EMNLP. What'more, she also applied 10 national invention patents, the excellence award of the president of the Chinese Academy of Sciences and the special award of the director of the Institute of computing of the Chinese Academy of Sciences. She was invited to serve as a PC for ACL, AAAI, IJCAI, SIGIR, CIKM and other conferences.
 
@@ -48,17 +48,18 @@ EMNLP2024 Main收录：Safely Learning with Private Data: A Federated Learning F
 1. Qianchi Zhang, **Hainan Zhang#**, Liang Pang, Hongwei Zheng, Zhiming Zheng. AdaComp: Extractive Context Compression with Adaptive Predictor for Retrieval-Augmented Large Language Models[J]. arXiv preprint arXiv:2409.01579, 2024.
 2. Qianchi Zhang, **Hainan Zhang#**, Liang Pang, Hongwei Zheng, Yongxin Tong, Zhiming Zheng. FineFilter: A Fine-grained Noise Filtering Mechanism for Retrieval-Augmented Large Language Models[J]. arXiv preprint arXiv:2502.11811, 2025.
    
-### 专利
-1. 张海楠等. 一种基于强化学习的自适应聚合防御复杂投毒攻击方法.
-2. 张海楠等. 一种利用隐藏状态过滤的防隐私攻击方法及装置.
-3. 张海楠等. 一种区块链智能合约代码生成大型语言模型的方法.
-4. 张海楠等. 一种商品文案一致性检测的方法和系统.
-5. 张海楠等. 一种基于上下文改写的对话摘要方法和系统.
-6. 张海楠等. 一种知识转移的对话生成方法和系统. 
-7. 张海楠等. 一种商品文案自动生成方法和系统. 
-8. 张海楠等. 一种商品推荐理由自动生成方法和系统.
-9. 张海楠等. 一种细粒度对比的多轮对话推理方法和系统.
-10. 张海楠等. 一种自适应训练与预测的对话生成方法和系统. 
+### 公开或授权专利
+1. 张海楠等. 一种基于强化学习的自适应聚合防御复杂投毒攻击方法. CN202411453984.9
+2. 张海楠等. 一种利用隐藏状态过滤的防隐私攻击方法及装置. CN202411512708.5
+3. 张海楠等. 一种区块链智能合约代码生成大型语言模型的方法. 	CN202411494298.6
+4. 张海楠等. 文案检测方法、装置、设备及计算机可读存储介质. CN202210952230.2
+5. 张海楠等. 模型训练方法、答复问题生成方法、装置、设备和介质. CN202310769116.0
+6. 张海楠等. 机器学习模型训练方法、摘要生成方法和装置. 	CN202210257581.1 
+7. 张海楠等. 翻译模型的处理方法、装置和计算机可读存储介质. CN202210150760.5
+8. 张海楠等. 推荐理由生成方法、装置、设备及存储介质. CN202010619641.0 (已授权）
+9. 张海楠等. 用于确定信息的方法和装置. CN202210151466.6
+10. 张海楠等. 物品文案生成网络训练方法、物品文案生成方法、装置. CN202110084578.X
+11. 张海楠等. 文本输出方法、装置、设备以及存储介质. CN202110586299.3
 
 ### 在读学生
 * Jiaying Zheng, 在读博士, 北京航空航天大学
