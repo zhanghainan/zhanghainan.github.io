@@ -3,7 +3,10 @@
 
 Hainan Zhang, received her Ph.D. from the Institute of Computing Technology, Chinese Academy of Sciences in 2019. After graduation, she worked as an algorithm engineer in the R&D department, JD.com. In 2023, she joined the Future Blockchain and Privacy Computing Advanced Innovation Center of the Artificial Intelligence Research Institute of Beijing University of Aeronautics and Astronautics as an Associate Researcher. Her main research directions are: natural language generation, privacy computing, code generation, dialogue generation, etc. In recent years, she has published 20+ papers as the first author and corresponding author in NLP top conferences and journals, including ACL, SIGIR, AAAI, EMNLP. What'more, she also applied 10 national invention patents, the excellence award of the president of the Chinese Academy of Sciences and the special award of the director of the Institute of computing of the Chinese Academy of Sciences. She was invited to serve as a PC for ACL, AAAI, IJCAI, SIGIR, CIKM and other conferences.
 
+
 ### 近期学术News
+招本科实习生ing~深度参与前沿研究，表现优秀的同学可以保研/申请博士~ please contact me zhanghainan@buaa.edu.cn
+
 WWW2025 Workshop收录：HSF: Defending against Jailbreak Attacks with Hidden State Filtering
 
 AAAI2025 Main收录3篇：
