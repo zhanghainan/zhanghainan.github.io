@@ -1,15 +1,15 @@
-## 个人介绍
+## 个人介绍 Introduction
 张海楠于2019年获得中国科学院计算技术研究所博士学位。博士毕业后，就职于京东推荐研发部，任算法工程师。2023年加入北京航空航天大学人工智能学院未来区块链与隐私计算高精尖创新中心，任副研究员。目前主要研究方向为：自然语言生成、隐私计算、代码生成、对话系统等。在包括ACL、SIGIR、AAAI、EMNLP等国际学术会议和期刊上，以第一作者和通讯作者发表论文20余篇(其中CCF A类论文9篇, CCF B类论文7篇)，申请国家发明专利10余项，并获得AAAI-IAAI2022人工智能创新应用奖、中国科学院院长优秀奖、中科院计算所所长特别奖。受邀担任ACL、AAAI、IJCAI、SIGIR、CIKM等会议审稿人。
 
 Hainan Zhang, received her Ph.D. from the Institute of Computing Technology, Chinese Academy of Sciences in 2019. After graduation, she worked as an algorithm engineer in the R&D department, JD.com. In 2023, she joined the Future Blockchain and Privacy Computing Advanced Innovation Center of the Artificial Intelligence Research Institute of Beijing University of Aeronautics and Astronautics as an Associate Researcher. Her main research directions are: natural language generation, privacy computing, code generation, dialogue generation, etc. In recent years, she has published 20+ papers as the first author and corresponding author in NLP top conferences and journals, including ACL, SIGIR, AAAI, EMNLP. What'more, she also applied 10 national invention patents, the excellence award of the president of the Chinese Academy of Sciences and the special award of the director of the Institute of computing of the Chinese Academy of Sciences. She was invited to serve as a PC for ACL, AAAI, IJCAI, SIGIR, CIKM and other conferences.
 
-### 招本科实习生
+### 招本科实习生 Recruiting interns
 
 深度参与前沿研究，欢迎有保研需求或者博士申请的同学联系我们 ~~ zhanghainan@buaa.edu.cn
 
-### 近期学术News
+## 近期学术News
 
-**Best Paper Award WSAI@WWW2025**：HSF: Defending against Jailbreak Attacks with Hidden State Filtering
+**Best Paper Award(WWW2025 workshop)**：HSF: Defending against Jailbreak Attacks with Hidden State Filtering
 
 
 AAAI2025 Main收录3篇：
@@ -22,7 +22,7 @@ AAAI2025 Main收录3篇：
 
 EMNLP2024 Main收录：Safely Learning with Private Data: A Federated Learning Framework for Large Language Model
 
-### 发表论文
+## 发表论文 Publications
 1. **(Best Paper)** Cheng Qian, **Hainan Zhang#**, Lei Sha. HSF: Defending against Jailbreak Attacks with Hidden State Filtering.[C]//WWW2025 Workshop. 
 2. **(CCF A)** Yujing Wang, **Hainan Zhang#**, Liang Pang, Hongwei Zheng, Zhiming Zheng. MaFeRw: Query Rewriting with Multi-Aspect Feedbacks for Retrieval-Augmented Large Language Models.[C]//AAAI2025. 
 3. **(CCF A)** Yujing Wang, **Hainan Zhang#**, Sijia Wen, Wangjie Qiu, Binghui Guo. Defending Against Sophisticated Poisoning Attacks with RL-based Aggregation in Federated Learning.[C]//AAAI2025. 
@@ -54,7 +54,7 @@ EMNLP2024 Main收录：Safely Learning with Private Data: A Federated Learning F
 1. Qianchi Zhang, **Hainan Zhang#**, Liang Pang, Hongwei Zheng, Zhiming Zheng. AdaComp: Extractive Context Compression with Adaptive Predictor for Retrieval-Augmented Large Language Models[J]. arXiv preprint arXiv:2409.01579, 2024.
 2. Qianchi Zhang, **Hainan Zhang#**, Liang Pang, Hongwei Zheng, Yongxin Tong, Zhiming Zheng. FineFilter: A Fine-grained Noise Filtering Mechanism for Retrieval-Augmented Large Language Models[J]. arXiv preprint arXiv:2502.11811, 2025.
    
-### 公开或授权专利
+## 公开或授权专利 Patents
 1. 张海楠等. 一种基于强化学习的自适应聚合防御复杂投毒攻击方法. CN202411453984.9
 2. 张海楠等. 一种利用隐藏状态过滤的防隐私攻击方法及装置. CN202411512708.5
 3. 张海楠等. 一种区块链智能合约代码生成大型语言模型的方法. 	CN202411494298.6
@@ -67,7 +67,7 @@ EMNLP2024 Main收录：Safely Learning with Private Data: A Federated Learning F
 10. 张海楠等. 物品文案生成网络训练方法、物品文案生成方法、装置. CN202110084578.X
 11. 张海楠等. 文本输出方法、装置、设备以及存储介质. CN202110586299.3
 
-### 在读学生
+## 在读学生 Current Students
 * Jiaying Zheng, 在读博士, 北京航空航天大学
 * Lingxiang Wang, 在读博士, 北京航空航天大学
 * Yujing Wang, 在读硕士, 北京航空航天大学
@@ -75,12 +75,12 @@ EMNLP2024 Main收录：Safely Learning with Private Data: A Federated Learning F
 * Zishuai Zhang, 在读硕士, 北京航空航天大学
 * Cheng Qian, 在读硕士, 北京航空航天大学
   
-### 已毕业学生
+## 已毕业学生 Graduated Students
 * Haolan Zhan, 在读博士，莫纳什大学
-* Xu Wang, 教师, 河北工业大学
-* Haoran Xu,算法工程师, 拼多多
+* Xu Wang, 讲师, 河北工业大学
+* Haoran Xu, 算法工程师, 拼多多
 * Yue Fang, 在读博士，北京大学
 
-### 与我联系
+## 与我联系
 zhanghainan@buaa.edu.cn
 zhanghainan1990@163.com
