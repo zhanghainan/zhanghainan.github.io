@@ -53,7 +53,7 @@ Hainan Zhang, received her Ph.D. from the Institute of Computing Technology, Chi
 1. Qianchi Zhang, **Hainan Zhang#**, Liang Pang, Hongwei Zheng, Zhiming Zheng. AdaComp: Extractive Context Compression with Adaptive Predictor for Retrieval-Augmented Large Language Models[J]. arXiv preprint arXiv:2409.01579, 2024.
 2. Qianchi Zhang, **Hainan Zhang#**, Liang Pang, Hongwei Zheng, Yongxin Tong, Zhiming Zheng. FineFilter: A Fine-grained Noise Filtering Mechanism for Retrieval-Augmented Large Language Models[J]. arXiv preprint arXiv:2502.11811, 2025.
 3. Yujing Wang, **Hainan Zhang#**, Liang Pang, Yongxin Tong, Binghui Guo, Hongwei Zheng, Zhiming Zheng. Learning to Erase Private Knowledge from Multi-Documents for Retrieval-Augmented Large Language Models[J]. arXiv preprint arXiv:2504.09910, 2025.
-4. Lingxiang Wang, **Hainan Zhang#**, Qinnan Zhang, Ziwei Wang, Hongwei Zheng, Jin Dong# and Zhiming Zheng. CodeBC: A More Secure Large Language Model for Smart Contract Code Generation in Blockchain[J].
+4. Lingxiang Wang, **Hainan Zhang#**, Qinnan Zhang, Ziwei Wang, Hongwei Zheng, Jin Dong# and Zhiming Zheng. CodeBC: A More Secure Large Language Model for Smart Contract Code Generation in Blockchain[J]. arXiv preprint arXiv:2504.21043
 5. **Hainan Zhang**, Zishuai Zhang, Jiaying Zheng, Lingxiang Wang, Ziwei Wang#, Sijia Wen, Jin Dong#, Hongwei Zheng, Zhiming Zheng and Yongxin Tong#. A Federated Splitting Framework for LLMs: Security, Efficiency, and Adaptability[J].
    
 ## 公开或授权专利 Patents
