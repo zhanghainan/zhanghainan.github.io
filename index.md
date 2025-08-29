@@ -15,7 +15,9 @@ Hainan Zhang, received her Ph.D. from the Institute of Computing Technology, Chi
 
 (2) Beyond the Surface: A Solution-Aware Retrieval Model for Competition-level Code Generation
 
-**Best Paper Award(WWW2025 workshop)**：HSF: Defending against Jailbreak Attacks with Hidden State Filtering
+**WWW-WSAI2025 Best Paper Award**:
+
+(1) HSF: Defending against Jailbreak Attacks with Hidden State Filtering
 
 **AAAI2025 Main收录3篇**：
 
