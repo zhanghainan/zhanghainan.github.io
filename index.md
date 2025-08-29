@@ -27,23 +27,23 @@ Hainan Zhang, received her Ph.D. from the Institute of Computing Technology, Chi
 
 
 ## 发表论文 Publications
-1. **(CCF B)** Jinwen Chen, **Hainan Zhang#**, Fei Sun, Qinnan Zhang, Sijia Wen, Ziwei Wang, Zhiming Zheng. Detecting Stealthy Backdoor Samples based on Intra-class Distance for Large Language Models.[C]//EMNLP2025.
-2. **(CCF B)** Zhang Shiwen, Lingxiang Wang, **Hainan Zhang#**, Ziwei Wang, Sijia Wen, Zhiming Zheng. 	
-Beyond the Surface: A Solution-Aware Retrieval Model for Competition-level Code Generation.[C]//EMNLP2025.
+1. **(CCF B)** Jinwen Chen, **Hainan Zhang#**, Fei Sun, Qinnan Zhang, Sijia Wen, Ziwei Wang, Zhiming Zheng. Detecting Stealthy Backdoor Samples based on Intra-class Distance for Large Language Models.[C]//EMNLP 2025 Findings.
+2. **(CCF B)** Zhang Shiwen, Lingxiang Wang*, **Hainan Zhang#**, Ziwei Wang, Sijia Wen, Zhiming Zheng. 	
+Beyond the Surface: A Solution-Aware Retrieval Model for Competition-level Code Generation.[C]//EMNLP 2025 Findings.
 3. **(Best Paper)** Cheng Qian, **Hainan Zhang#**, Lei Sha. HSF: Defending against Jailbreak Attacks with Hidden State Filtering.[C]//WWW2025 Workshop. 
-4. **(CCF A)** Yujing Wang, **Hainan Zhang#**, Liang Pang, Hongwei Zheng, Zhiming Zheng. MaFeRw: Query Rewriting with Multi-Aspect Feedbacks for Retrieval-Augmented Large Language Models.[C]//AAAI2025. 
-5. **(CCF A)** Yujing Wang, **Hainan Zhang#**, Sijia Wen, Wangjie Qiu, Binghui Guo. Defending Against Sophisticated Poisoning Attacks with RL-based Aggregation in Federated Learning.[C]//AAAI2025. 
-6. **(CCF A)** Yu Qiu, Sijia Wen, **Hainan Zhang**, Zhiming Zheng. High-Fidelity Polarimetric Implicit 3D Reconstruction with View-Dependent Physical Representation. [C]//AAAI2025.
-7. **(CCF B)** JiaYing Zheng, **HaiNan Zhang#**, LingXiang Wang, WangJie Qiu, HongWei Zheng, ZhiMing Zheng. Safely Learning with Private Data: A Federated Learning Framework for Large Language Model.[C]//EMNLP2024. 
+4. **(CCF A)** Yujing Wang, **Hainan Zhang#**, Liang Pang, Hongwei Zheng, Zhiming Zheng. MaFeRw: Query Rewriting with Multi-Aspect Feedbacks for Retrieval-Augmented Large Language Models.[C]//AAAI 2025. 
+5. **(CCF A)** Yujing Wang, **Hainan Zhang#**, Sijia Wen, Wangjie Qiu, Binghui Guo. Defending Against Sophisticated Poisoning Attacks with RL-based Aggregation in Federated Learning.[C]//AAAI 2025. 
+6. **(CCF A)** Yu Qiu, Sijia Wen, **Hainan Zhang**, Zhiming Zheng. High-Fidelity Polarimetric Implicit 3D Reconstruction with View-Dependent Physical Representation. [C]//AAAI 2025.
+7. **(CCF B)** JiaYing Zheng, **HaiNan Zhang#**, LingXiang Wang, WangJie Qiu, HongWei Zheng, ZhiMing Zheng. Safely Learning with Private Data: A Federated Learning Framework for Large Language Model.[C]//EMNLP 2024 Main. 
 8. **(CCF B)** Xu Wang, **Hainan Zhang#**, Shuai Zhao, Hongshen Chen, Zhuoye Ding, Zhiguo Wan, Bo Cheng, and Yanyan Lan. Debiasing Counterfactual Context with Causal Inference for Multi-turn Dialogue Reasoning[J]. IEEE Transactions on Audio, Speech and Language Processing, 2023. 
-9. **(CCF B)** Zhiping Wang, Pen Lin, **Hainan Zhang#**, Hongshen Chen, Tianhao Li, Zhuoye Ding, Sulong Xu and Jinghe Hu. Automatic Marketing Theme and Commodity Construction System for E-commerce.// EMNLP2023. 
+9. **(CCF B)** Zhiping Wang, Pen Lin, **Hainan Zhang#**, Hongshen Chen, Tianhao Li, Zhuoye Ding, Sulong Xu and Jinghe Hu. Automatic Marketing Theme and Commodity Construction System for E-commerce.//EMNLP 2023 Main. 
 10. **(CCF C)** Xu Wang, **Hainan Zhang#**, Shuai Zhao, Hongshen Chen, Bo Cheng, Zhuoye Ding, Sulong Xu, Weipeng Yan, Yanyan Lan. HiBERT: Detecting the illogical patterns with hierarchical BERT for multi-turn dialogue reasoning[J]. Neurocomputing, 2023, 524: 167-177. 
-11. **(CCF B)** Yue Fang, **Hainan Zhang#**, Hongshen Chen, Zhuoye Ding, Bo Long, Yanyan Lan, Yanquan Zhou. From spoken dialogue to formal summary: An utterance rewriting for dialogue summarization.// NAACL2022. 
-12. **(CCF A)** Xueying Zhang, Yanyan Zou, **Hainan Zhang**, Jing Zhou, Shiliang Diao, Jiajia Chen, Zhuoye Ding, Zhen He, Xueqi He, Yun Xiao, Bo Long, Han Yu, Lingfei Wu. Automatic Product Copywriting for E-Commerce[C].// AAAI2022. 
-13. **(CCF B)** Haoran Xu, **Hainan Zhang#**, Yanyan Zou, Hongshen Chen, Zhuoye Ding and Yanyan Lan. Adaptive Bridge between Training and Inference for Dialogue Generation.[C]//EMNLP 2021. 
-14. **(CCF B)** Xu Wang, **Hainan Zhang#**, Shuai Zhao, Yanyan Zou, Hongshen Chen, Zhuoye Ding, Bo Cheng and Yanyan Lan. FCM: A Fine-grained Comparison Model for Multi-turn Dialogue Reasoning.[C]//EMNLP 2021. 
-15. **(CCF B)** Haolan Zhan, Lei Shen, Hongshen Chen and **Hainan Zhang**. CoLA: A Collaborative Latent Variable Model for Knowledge-Grounded Conversations.[C]//EMNLP 2021.
-16. **(CCF B)** Junpeng Liu, Yanyan Zou, **Hainan Zhang**, Hongshen Chen, Zhuoye Ding, Caixia Yuan and Xiaojie WANG. Topic-Aware Contrastive Learning for Abstractive Dialogue Summarization. [C]//EMNLP 2021. 
+11. **(CCF B)** Yue Fang, **Hainan Zhang#**, Hongshen Chen, Zhuoye Ding, Bo Long, Yanyan Lan, Yanquan Zhou. From spoken dialogue to formal summary: An utterance rewriting for dialogue summarization.//NAACL 2022. 
+12. **(CCF A)** Xueying Zhang, Yanyan Zou, **Hainan Zhang**, Jing Zhou, Shiliang Diao, Jiajia Chen, Zhuoye Ding, Zhen He, Xueqi He, Yun Xiao, Bo Long, Han Yu, Lingfei Wu. Automatic Product Copywriting for E-Commerce[C].//AAAI 2022. 
+13. **(CCF B)** Haoran Xu, **Hainan Zhang#**, Yanyan Zou, Hongshen Chen, Zhuoye Ding and Yanyan Lan. Adaptive Bridge between Training and Inference for Dialogue Generation.[C]//EMNLP2021 Main. 
+14. **(CCF B)** Xu Wang, **Hainan Zhang#**, Shuai Zhao, Yanyan Zou, Hongshen Chen, Zhuoye Ding, Bo Cheng and Yanyan Lan. FCM: A Fine-grained Comparison Model for Multi-turn Dialogue Reasoning.[C]//EMNLP 2021 Findings. 
+15. **(CCF B)** Haolan Zhan, Lei Shen, Hongshen Chen and **Hainan Zhang**. CoLA: A Collaborative Latent Variable Model for Knowledge-Grounded Conversations.[C]//EMNLP 2021 Main.
+16. **(CCF B)** Junpeng Liu, Yanyan Zou, **Hainan Zhang**, Hongshen Chen, Zhuoye Ding, Caixia Yuan and Xiaojie WANG. Topic-Aware Contrastive Learning for Abstractive Dialogue Summarization. [C]//EMNLP 2021 Findings. 
 17. **(CCF B)** Haolan Zhan, **Hainan Zhang#**, Hongshen Chen, Lei Shen, Zhuoye Ding, Weipeng Yan, Yanyan Lan. Augmenting Knowledge-grounded Conversations with Sequential Knowledge Transition.[C]//NAACL 2021. 
 18. **(CCF A)** Haolan Zhan, **Hainan Zhang#**, Hongshen Chen, Lei Shen, Yanyan Lan, Zhuoye Ding and Dawei Yin. Probing Product Description Generation via Posterior Distillation[C]//AAAI 2021. 
 19. **(CCF A)** Haolan Zhan, **Hainan Zhang#**, Hongshen Chen, Lei Shen, Yanyan Lan, Zhuoye Ding and Dawei Yin. User-Inspired Posterior Network for Recommendation Reason Generation[C]//SIGIR 2020.
@@ -56,8 +56,8 @@ Beyond the Surface: A Solution-Aware Retrieval Model for Competition-level Code 
 26. **Hainan Zhang**, Tonglei Guo, Yanyan Lan, Jiafeng Guo, Jianing Li and Xueqi Cheng. Gbot at the NTCIR-13 STC-2 Task.[C]//NTCIR 2017.
 27. **张海楠**, 伍大勇, 刘悦, 程学旗. 基于深度神经网络的中文命名实体识别[J]. 中文信息学报, 2017, 31(4): 28-35.
 28. 郝长盈、兰艳艳、**张海楠**、郭嘉丰、徐君、程学旗. 基于拓展关键词信息的对话生成模型[J]. 山东大学学报（理工版）, 2019.
-
-### 预印论文
+ 
+### 预印论文 PrePrint
 1. Qianchi Zhang, **Hainan Zhang#**, Liang Pang, Hongwei Zheng, Zhiming Zheng. AdaComp: Extractive Context Compression with Adaptive Predictor for Retrieval-Augmented Large Language Models[J]. arXiv preprint arXiv:2409.01579, 2024.
 2. Qianchi Zhang, **Hainan Zhang#**, Liang Pang, Hongwei Zheng, Yongxin Tong, Zhiming Zheng. FineFilter: A Fine-grained Noise Filtering Mechanism for Retrieval-Augmented Large Language Models[J]. arXiv preprint arXiv:2502.11811, 2025.
 3. Yujing Wang, **Hainan Zhang#**, Liang Pang, Yongxin Tong, Binghui Guo, Hongwei Zheng, Zhiming Zheng. Learning to Erase Private Knowledge from Multi-Documents for Retrieval-Augmented Large Language Models[J]. arXiv preprint arXiv:2504.09910, 2025.
@@ -79,19 +79,25 @@ Beyond the Surface: A Solution-Aware Retrieval Model for Competition-level Code 
 11. 张海楠等. 文本输出方法、装置、设备以及存储介质. CN202110586299.3
 
 ## 在读学生 Current Students
-* Jiaying Zheng, 在读博士, 北京航空航天大学
-* Lingxiang Wang, 在读博士, 北京航空航天大学
-* Yujing Wang, 在读硕士, 北京航空航天大学
-* Qianchi Zhang, 在读硕士, 北京航空航天大学
-* Zishuai Zhang, 在读硕士, 北京航空航天大学
-* Cheng Qian, 在读硕士, 北京航空航天大学
+* Jiaying Zheng, 在读博士23级, 北京航空航天大学
+* Lingxiang Wang, 硕转博24级, 北京航空航天大学
+* Qianchi Zhang, 硕转博25级, 北京航空航天大学
+* Zishuai Zhang, 硕转博25级, 北京航空航天大学
   
+* Yujing Wang, 在读硕士23级, 北京航空航天大学
+* Cheng Qian, 在读硕士23级, 北京航空航天大学
+* Jinwen Chen, 在读硕士24级, 北京航空航天大学
+* Shiwen Zhang, 在读硕士24级, 北京航空航天大学
+* Ruiqi Zhang, 在读硕士25级, 北京航空航天大学
+* Shule Lu, 在读硕士25级, 北京航空航天大学
+* Bo Yang, 在读硕士25级, 北京航空航天大学
+
 ## 已毕业学生 Graduated Students
 * Haolan Zhan, 在读博士，莫纳什大学
 * Xu Wang, 讲师, 河北工业大学
 * Haoran Xu, 算法工程师, 拼多多
 * Yue Fang, 在读博士，北京大学
 
-## 与我联系
+## 与我联系 Contact Me
 zhanghainan@buaa.edu.cn
 zhanghainan1990@163.com
