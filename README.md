@@ -3,6 +3,5 @@
 
 这里是我的 GitHub Pages 测试页面。
 
-![我的头像](/assets/img/mypic.png)
 
 更多内容正在建设中……
