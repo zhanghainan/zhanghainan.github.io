@@ -65,9 +65,11 @@ Beyond the Surface: A Solution-Aware Retrieval Model for Competition-level Code 
 2. Qianchi Zhang, **Hainan Zhang#**, Liang Pang, Hongwei Zheng, Yongxin Tong, Zhiming Zheng. FineFilter: A Fine-grained Noise Filtering Mechanism for Retrieval-Augmented Large Language Models[J]. arXiv preprint arXiv:2502.11811, 2025.
 3. Yujing Wang, **Hainan Zhang#**, Liang Pang, Yongxin Tong, Binghui Guo, Hongwei Zheng, Zhiming Zheng. Learning to Erase Private Knowledge from Multi-Documents for Retrieval-Augmented Large Language Models[J]. arXiv preprint arXiv:2504.09910, 2025.
 4. Lingxiang Wang, **Hainan Zhang#**, Qinnan Zhang, Ziwei Wang, Hongwei Zheng, Jin Dong# and Zhiming Zheng. CodeBC: A More Secure Large Language Model for Smart Contract Code Generation in Blockchain[J]. arXiv preprint arXiv:2504.21043
-5. Zishuai Zhang, **Hainan Zhang(equal contribuction)**, Jiaying Zheng, Ziwei Wang, Yongxin Tong#, Jin Dong#, Zhiming Zheng. A Federated Splitting Framework for LLMs: Security, Efficiency, and Adaptability[J]. arXiv preprint arXiv:2505.15683, 2025.
-6. JiaYing Zheng, HaiNan Zhang, Liang Pang, YongXin Tong, ZhiMing Zheng. Can Synthetic Query Rewrites Capture User Intent Better than Humans in Retrieval-Augmented Generation?[J]. arXiv preprint arXiv:2509.22325, 2025.
-7. Shule Lu, Lingxiang Wang, Sijia Wen, Ziwei Wang, Hainan Zhang. FedDTRE: Federated Dialogue Generation Models Powered by Trustworthiness Evaluation.
+5. Zishuai Zhang, **Hainan Zhang#**, Jiaying Zheng, Ziwei Wang, Yongxin Tong#, Jin Dong#, Zhiming Zheng. A Federated Splitting Framework for LLMs: Security, Efficiency, and Adaptability[J]. arXiv preprint arXiv:2505.15683, 2025.
+6. Cheng Qian, **Hainan Zhang#**, Yongxin Tong, Hong-Wei Zheng, Zhiming Zheng. HyFedRAG: A Federated Retrieval-Augmented Generation Framework for Heterogeneous and Privacy-Sensitive Data. [J]. arXiv preprint arXiv:2509.06444, 2025.
+7. Jinwen Chen, **Hainan Zhang#**, Liang Pang, Yongxin Tong, Haibo Zhou, Yuan Zhan, Wei Lin, Zhiming Zheng. Privacy-Preserving Reasoning with Knowledge-Distilled Parametric Retrieval Augmented Generation. [J]. arXiv preprint arXiv:2509.01088, 2025.
+8. JiaYing Zheng, **Hainan Zhang#**, Liang Pang, YongXin Tong, ZhiMing Zheng. Can Synthetic Query Rewrites Capture User Intent Better than Humans in Retrieval-Augmented Generation?[J]. arXiv preprint arXiv:2509.22325, 2025.
+9. Shule Lu, Lingxiang Wang, Sijia Wen, Ziwei Wang, **Hainan Zhang#**. FedDTRE: Federated Dialogue Generation Models Powered by Trustworthiness Evaluation.
 
    
 ## 公开或授权专利 Patents
