@@ -69,20 +69,21 @@ Beyond the Surface: A Solution-Aware Retrieval Model for Competition-level Code 
 6. Cheng Qian, **Hainan Zhang#**, Yongxin Tong, Hong-Wei Zheng, Zhiming Zheng. HyFedRAG: A Federated Retrieval-Augmented Generation Framework for Heterogeneous and Privacy-Sensitive Data. [J]. arXiv preprint arXiv:2509.06444, 2025.
 7. Jinwen Chen, **Hainan Zhang#**, Liang Pang, Yongxin Tong, Haibo Zhou, Yuan Zhan, Wei Lin, Zhiming Zheng. Privacy-Preserving Reasoning with Knowledge-Distilled Parametric Retrieval Augmented Generation. [J]. arXiv preprint arXiv:2509.01088, 2025.
 8. JiaYing Zheng, **Hainan Zhang#**, Liang Pang, YongXin Tong, ZhiMing Zheng. Can Synthetic Query Rewrites Capture User Intent Better than Humans in Retrieval-Augmented Generation?[J]. arXiv preprint arXiv:2509.22325, 2025.
-9. Shule Lu, Lingxiang Wang, Sijia Wen, Ziwei Wang, **Hainan Zhang#**. FedDTRE: Federated Dialogue Generation Models Powered by Trustworthiness Evaluation.
+9. Shule Lu, Lingxiang Wang, Sijia Wen, Ziwei Wang, **Hainan Zhang#**. FedDTRE: Federated Dialogue Generation Models Powered by Trustworthiness Evaluation[J]. arXiv preprint arXiv:2510.08058, 2025
+10. Zishuai Zhang, Sihao Yu#, Wenyi Xie, Ying Nie, Junfeng Wang, Zhiming Zheng, Dawei Yin, **Hainan Zhang#**. An Efficient Framework for Whole-Page Reranking via Single-Modal Supervision[J]. arXiv preprint arXiv:2510.16803, 2025
 
    
 ## 公开或授权专利 Patents
 1. 张海楠等. 一种基于强化学习的自适应聚合防御复杂投毒攻击方法. CN202411453984.9
 2. 张海楠等. 一种利用隐藏状态过滤的防隐私攻击方法及装置. CN202411512708.5
-3. 张海楠等. 一种区块链智能合约代码生成大型语言模型的方法. 	CN202411494298.6
+3. 张海楠等. 一种区块链智能合约代码生成大型语言模型的方法. 	CN202411494298.6(已授权）
 4. 张海楠等. 文案检测方法、装置、设备及计算机可读存储介质. CN202210952230.2
 5. 张海楠等. 模型训练方法、答复问题生成方法、装置、设备和介质. CN202310769116.0
 6. 张海楠等. 机器学习模型训练方法、摘要生成方法和装置. 	CN202210257581.1 
-7. 张海楠等. 翻译模型的处理方法、装置和计算机可读存储介质. CN202210150760.5
+7. 张海楠等. 翻译模型的处理方法、装置和计算机可读存储介质. CN202210150760.5(已授权）
 8. 张海楠等. 推荐理由生成方法、装置、设备及存储介质. CN202010619641.0 (已授权）
-9. 张海楠等. 用于确定信息的方法和装置. CN202210151466.6
-10. 张海楠等. 物品文案生成网络训练方法、物品文案生成方法、装置. CN202110084578.X
+9. 张海楠等. 用于确定信息的方法和装置. CN202210151466.6(已授权）
+10. 张海楠等. 物品文案生成网络训练方法、物品文案生成方法、装置. CN202110084578.X(已授权）
 11. 张海楠等. 文本输出方法、装置、设备以及存储介质. CN202110586299.3
 
 ## 在读学生 Current Students
