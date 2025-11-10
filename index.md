@@ -1,8 +1,8 @@
 ![我的团队](/docs/team1.jpg)
 ## 个人介绍 Introduction
-张海楠于2019年获得中国科学院计算技术研究所博士学位。博士毕业后，就职于京东推荐研发部，任算法工程师。2023年加入北京航空航天大学人工智能学院未来区块链与隐私计算高精尖创新中心，任副研究员，博士生导师。目前主要研究方向为：自然语言生成、隐私计算、代码生成、对话系统等。在包括ACL、SIGIR、AAAI、EMNLP等国际学术会议和期刊上，以第一作者和通讯作者发表论文20余篇，发表CCF A类论文10篇、CCF B类论文11篇，申请国家发明专利10余项，并获得AAAI-IAAI2022人工智能创新应用奖、中国仿真学会科学技术一等奖、中国科学院院长优秀奖、中科院计算所所长特别奖。受邀担任ICML、NIPS、TKDE、ACL、AAAI、SIGIR等会议审稿人。
+张海楠于2019年获得中国科学院计算技术研究所博士学位。博士毕业后，就职于京东推荐研发部，任算法工程师。2023年加入北京航空航天大学人工智能学院未来区块链与隐私计算高精尖创新中心，任副研究员，博士生导师。目前主要研究方向为：自然语言生成、隐私计算、代码生成、对话系统等。在包括ACL、SIGIR、AAAI、EMNLP等国际学术会议和期刊上，以第一作者和通讯作者发表论文20余篇，发表CCF A类论文11篇、CCF B类论文11篇，申请国家发明专利10余项，并获得AAAI-IAAI2022人工智能创新应用奖、中国仿真学会科学技术一等奖、WWW-WSAI2025最佳论文奖、中国科学院院长优秀奖。受邀担任ICML、NIPS、TKDE、ACL、AAAI、SIGIR等会议审稿人。
 
-Hainan Zhang, received her Ph.D. from the Institute of Computing Technology, Chinese Academy of Sciences in 2019. After graduation, she worked as an algorithm engineer in the R&D department, JD.com. She is now a full-time Associate Research Professor in the Artificial Intelligence Institute of Beihang University. Her main research directions are: natural language generation, privacy computing, code generation, dialogue generation, etc. In recent years, she has published 20+ papers as the first author and corresponding author in NLP top conferences and journals, including ACL, SIGIR, AAAI, EMNLP. What'more, she also applied 10 national invention patents, the excellence award of the president of the Chinese Academy of Sciences and the special award of the director of the Institute of Computing and Technology. She was invited to serve as a PC for ICML、NIPS、TKDE、ACL、AAAI、SIGIR and other conferences.
+Hainan Zhang, received her Ph.D. from the Institute of Computing Technology, Chinese Academy of Sciences in 2019. After graduation, she worked as an algorithm engineer in the R&D department, JD.com. She is now a full-time Associate Research Professor in the Artificial Intelligence Institute of Beihang University. Her main research directions are: natural language generation, privacy computing, code generation, dialogue generation, etc. In recent years, she has published 20+ papers as the first author and corresponding author in NLP top conferences and journals, including ACL, SIGIR, AAAI, EMNLP. What'more, she also applied 10 national invention patents, the AAAI-IAAI2022 AI innovation and Application Award, the first prize of science and technology of China simulation society, the best paper award of WWW-WSAI2025, and the excellent award of the president of the Chinese Academy of Sciences. She was invited to serve as a PC for ICML、NIPS、TKDE、ACL、AAAI、SIGIR and other conferences.
 
 ### 招本科实习生
 
@@ -11,7 +11,8 @@ Hainan Zhang, received her Ph.D. from the Institute of Computing Technology, Chi
 ## 近期学术News
 
 **AAAI2026 Main收录1篇**：
-（1）FedSEA-LLaMA: A Secure, Efficient and Adaptive Federated Splitting Framework for Large Language Models
+
+(1) FedSEA-LLaMA: A Secure, Efficient and Adaptive Federated Splitting Framework for Large Language Models
 
 **EMNLP2025 Findings收录2篇**：
 
@@ -31,6 +32,9 @@ Hainan Zhang, received her Ph.D. from the Institute of Computing Technology, Chi
                      
 (3) High-Fidelity Polarimetric Implicit 3D Reconstruction with View-Dependent Physical Representation
 
+**EMNLP2024 Main收录1篇**：
+
+(1) Safely Learning with Private Data: A Federated Learning Framework for Large Language Model
 
 ## 发表论文 Publications
 1. **(CCF A)** Zishuai Zhang, **Hainan Zhang#**, Weihua Li, Qinnan Zhang, Jin Dong, Yongxin Tong, Zhiming Zheng. FedSEA-LLaMA: A Secure, Efficient and Adaptive Federated Splitting Framework for Large Language Models.[C]//AAAI 2026. 
