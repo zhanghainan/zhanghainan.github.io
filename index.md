@@ -78,6 +78,7 @@ Beyond the Surface: A Solution-Aware Retrieval Model for Competition-level Code 
 7. JiaYing Zheng, **Hainan Zhang#**, Liang Pang, YongXin Tong, ZhiMing Zheng. Can Synthetic Query Rewrites Capture User Intent Better than Humans in Retrieval-Augmented Generation?[J]. arXiv preprint arXiv:2509.22325, 2025.
 8. Shule Lu, Lingxiang Wang, Sijia Wen, Ziwei Wang, **Hainan Zhang#**. FedDTRE: Federated Dialogue Generation Models Powered by Trustworthiness Evaluation[J]. arXiv preprint arXiv:2510.08058, 2025
 9. Zishuai Zhang, Sihao Yu#, Wenyi Xie, Ying Nie, Junfeng Wang, Zhiming Zheng, Dawei Yin, **Hainan Zhang#**. An Efficient Framework for Whole-Page Reranking via Single-Modal Supervision[J]. arXiv preprint arXiv:2510.16803, 2025
+10. Lingxiang Wang, **Hainan Zhang#**, Zhiming Zheng. Parameter Importance-Driven Continual Learning for Foundation Models[J]. arXiv preprint arXiv:2511.15375, 2025
 
    
 ## 公开或授权专利 Patents
