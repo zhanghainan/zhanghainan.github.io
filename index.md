@@ -1,6 +1,6 @@
 ![我的团队](/docs/team1.jpg)
 ## 个人介绍 Introduction
-张海楠于2019年获得中国科学院计算技术研究所博士学位。博士毕业后，就职于京东推荐研发部，任算法工程师。2023年加入北京航空航天大学人工智能学院未来区块链与隐私计算高精尖创新中心，任副研究员，博士生导师。目前主要研究方向为：自然语言生成、隐私计算、代码生成、对话系统等。在包括ACL、SIGIR、AAAI、EMNLP等国际学术会议和期刊上，以第一作者和通讯作者发表论文20余篇，发表CCF A类论文11篇、CCF B类论文11篇，申请国家发明专利10余项，并获得AAAI-IAAI2022人工智能创新应用奖、中国仿真学会科学技术一等奖、WWW-WSAI2025最佳论文奖、中国科学院院长优秀奖。受邀担任ICML、NIPS、TKDE、ACL、AAAI、SIGIR等会议审稿人。
+张海楠于2019年获得中国科学院计算技术研究所博士学位。博士毕业后，就职于京东推荐研发部，任算法工程师。2023年加入北京航空航天大学人工智能学院未来区块链与隐私计算高精尖创新中心，任副研究员，博士生导师。目前主要研究方向为：自然语言生成、隐私计算、代码生成、对话系统等。在包括ACL、WWW、SIGIR、AAAI、EMNLP等国际学术会议和期刊上，以第一作者和通讯作者发表论文20余篇，发表CCF A类论文11篇、CCF B类论文11篇，申请国家发明专利10余项，并获得AAAI-IAAI2022人工智能创新应用奖、中国仿真学会科学技术一等奖、WWW-WSAI2025最佳论文奖、中国科学院院长优秀奖。受邀担任ICML、NIPS、TKDE、ACL、AAAI、SIGIR等会议审稿人。
 
 Hainan Zhang, received her Ph.D. from the Institute of Computing Technology, Chinese Academy of Sciences in 2019. After graduation, she worked as an algorithm engineer in the R&D department, JD.com. She is now a full-time Associate Research Professor in the Artificial Intelligence Institute of Beihang University. Her main research directions are: natural language generation, privacy computing, code generation, dialogue generation, etc. In recent years, she has published 20+ papers as the first author and corresponding author in NLP top conferences and journals, including ACL, SIGIR, AAAI, EMNLP. What'more, she also applied 10 national invention patents, the AAAI-IAAI2022 AI innovation and Application Award, the first prize of science and technology of China simulation society, the best paper award of WWW-WSAI2025, and the excellent award of the president of the Chinese Academy of Sciences. She was invited to serve as a PC for ICML、NIPS、TKDE、ACL、AAAI、SIGIR and other conferences.
 
@@ -79,6 +79,7 @@ Beyond the Surface: A Solution-Aware Retrieval Model for Competition-level Code 
 8. Shule Lu, Lingxiang Wang, Sijia Wen, Ziwei Wang, **Hainan Zhang#**. FedDTRE: Federated Dialogue Generation Models Powered by Trustworthiness Evaluation[J]. arXiv preprint arXiv:2510.08058, 2025
 9. Zishuai Zhang, Sihao Yu#, Wenyi Xie, Ying Nie, Junfeng Wang, Zhiming Zheng, Dawei Yin, **Hainan Zhang#**. An Efficient Framework for Whole-Page Reranking via Single-Modal Supervision[J]. arXiv preprint arXiv:2510.16803, 2025
 10. Lingxiang Wang, **Hainan Zhang#**, Zhiming Zheng. Parameter Importance-Driven Continual Learning for Foundation Models[J]. arXiv preprint arXiv:2511.15375, 2025
+11. Qianchi Zhang, **Hainan Zhang#**, Liang Pang, Hongwei Zheng, Zhiming Zheng. Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation[J]. arXiv preprint arXiv:2601.02993, 2026
 
    
 ## 公开或授权专利 Patents
@@ -100,6 +101,7 @@ Beyond the Surface: A Solution-Aware Retrieval Model for Competition-level Code 
 * Lingxiang Wang, 硕转博24级, 北京航空航天大学
 * Qianchi Zhang, 硕转博25级, 北京航空航天大学
 * Zishuai Zhang, 硕转博25级, 北京航空航天大学
+* Haofeng Sun, 直博26级, 北京航空航天大学
   
 * Yujing Wang, 在读硕士23级, 北京航空航天大学
 * Cheng Qian, 在读硕士23级, 北京航空航天大学
@@ -108,6 +110,7 @@ Beyond the Surface: A Solution-Aware Retrieval Model for Competition-level Code 
 * Ruiqi Zhang, 在读硕士25级, 北京航空航天大学
 * Shule Lu, 在读硕士25级, 北京航空航天大学
 * Bo Yang, 在读硕士25级, 北京航空航天大学
+* Nuoran Teng, 在读硕士26级, 北京航空航天大学
 
 ## 已毕业学生 Graduated Students
 * Haolan Zhan, 在读博士，莫纳什大学
