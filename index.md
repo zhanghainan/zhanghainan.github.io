@@ -1,6 +1,6 @@
 ![我的团队](/docs/team1.jpg)
 ## 个人介绍 Introduction
-张海楠于2019年获得中国科学院计算技术研究所博士学位。博士毕业后，就职于京东推荐研发部，任算法工程师。2023年加入北京航空航天大学人工智能学院未来区块链与隐私计算高精尖创新中心，任副研究员，博士生导师。目前主要研究方向为：自然语言生成、隐私计算、代码生成、对话系统等。在包括ACL、WWW、SIGIR、AAAI、EMNLP等国际学术会议和期刊上，以第一作者和通讯作者发表论文30余篇，发表CCF A类论文12篇、CCF B类论文12篇，申请国家发明专利10余项，并获得AAAI-IAAI2022人工智能创新应用奖、中国仿真学会科学技术一等奖、WWW-WSAI2025最佳论文奖、中国科学院院长优秀奖。受邀担任ICML、NIPS、TKDE、ACL、AAAI、SIGIR等会议审稿人。
+张海楠于2019年获得中国科学院计算技术研究所博士学位。博士毕业后，就职于京东推荐研发部，任算法工程师。2023年加入北京航空航天大学人工智能学院未来区块链与隐私计算高精尖创新中心，任副研究员，博士生导师。目前主要研究方向为：自然语言生成、隐私计算、代码生成、对话系统等。在包括ACL、WWW、SIGIR、AAAI、EMNLP等国际学术会议和期刊上，以第一作者和通讯作者发表论文30余篇，发表CCF A类论文12篇、CCF B类论文11篇，申请国家发明专利10余项，并获得AAAI-IAAI2022人工智能创新应用奖、中国仿真学会科学技术一等奖、WWW-WSAI2025最佳论文奖、中国科学院院长优秀奖。受邀担任ICML、NIPS、TKDE、ACL、AAAI、SIGIR等会议审稿人。
 
 Hainan Zhang, received her Ph.D. from the Institute of Computing Technology, Chinese Academy of Sciences in 2019. After graduation, she worked as an algorithm engineer in the R&D department, JD.com. She is now a full-time Associate Research Professor in the Artificial Intelligence Institute of Beihang University. Her main research directions are: natural language generation, privacy computing, code generation, dialogue generation, etc. In recent years, she has published 30+ papers as the first author and corresponding author in NLP top conferences and journals, including ACL, WWW, SIGIR, AAAI, EMNLP. What'more, she also applied 10 national invention patents, the AAAI-IAAI2022 AI innovation and Application Award, the first prize of science and technology of China simulation society, the best paper award of WWW-WSAI2025, and the excellent award of the president of the Chinese Academy of Sciences. She was invited to serve as a PC for ICML、NIPS、TKDE、ACL、AAAI、SIGIR and other conferences.
 
@@ -22,8 +22,6 @@ Hainan Zhang, received her Ph.D. from the Institute of Computing Technology, Chi
 
 (1) Detecting Stealthy Backdoor Samples based on Intra-class Distance for Large Language Models
 
-(2) Beyond the Surface: A Solution-Aware Retrieval Model for Competition-level Code Generation
-
 **WWW-WSAI2025 Best Paper Award**:
 
 (1) HSF: Defending against Jailbreak Attacks with Hidden State Filtering
@@ -33,14 +31,12 @@ Hainan Zhang, received her Ph.D. from the Institute of Computing Technology, Chi
 1. **(CCF A)** Qianchi Zhang, **Hainan Zhang#**, Liang Pang, Hongwei Zheng, Yongxin Tong, Zhiming Zheng. Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning.[C]//WWW 2026. 
 2. **(CCF A)** Zishuai Zhang, **Hainan Zhang#**, Weihua Li, Qinnan Zhang, Jin Dong, Yongxin Tong, Zhiming Zheng. FedSEA-LLaMA: A Secure, Efficient and Adaptive Federated Splitting Framework for Large Language Models.[C]//AAAI 2026. 
 3. **(CCF B)** Jinwen Chen, **Hainan Zhang#**, Fei Sun, Qinnan Zhang, Sijia Wen, Ziwei Wang, Zhiming Zheng. Detecting Stealthy Backdoor Samples based on Intra-class Distance for Large Language Models.[C]//EMNLP 2025 Findings.
-4. **(CCF B)** Zhang Shiwen, Lingxiang Wang*, **Hainan Zhang#**, Ziwei Wang, Sijia Wen, Zhiming Zheng. 	
-Beyond the Surface: A Solution-Aware Retrieval Model for Competition-level Code Generation.[C]//EMNLP 2025 Findings.
-5. **(Best Paper)** Cheng Qian, **Hainan Zhang#**, Lei Sha. HSF: Defending against Jailbreak Attacks with Hidden State Filtering.[C]//WWW2025 Workshop. 
-6. **(CCF A)** Yujing Wang, **Hainan Zhang#**, Liang Pang, Hongwei Zheng, Zhiming Zheng. MaFeRw: Query Rewriting with Multi-Aspect Feedbacks for Retrieval-Augmented Large Language Models.[C]//AAAI 2025. 
-7. **(CCF A)** Yujing Wang, **Hainan Zhang#**, Sijia Wen, Wangjie Qiu, Binghui Guo. Defending Against Sophisticated Poisoning Attacks with RL-based Aggregation in Federated Learning.[C]//AAAI 2025. 
-8. **(CCF A)** Yu Qiu, Sijia Wen, **Hainan Zhang**, Zhiming Zheng. High-Fidelity Polarimetric Implicit 3D Reconstruction with View-Dependent Physical Representation. [C]//AAAI 2025.
-9. **(CCF B)** JiaYing Zheng, **HaiNan Zhang#**, LingXiang Wang, WangJie Qiu, HongWei Zheng, ZhiMing Zheng. Safely Learning with Private Data: A Federated Learning Framework for Large Language Model.[C]//EMNLP 2024 Main. 
-10. **(CCF B)** Xu Wang, **Hainan Zhang#**, Shuai Zhao, Hongshen Chen, Zhuoye Ding, Zhiguo Wan, Bo Cheng, and Yanyan Lan. Debiasing Counterfactual Context with Causal Inference for Multi-turn Dialogue Reasoning[J]. IEEE Transactions on Audio, Speech and Language Processing, 2023. 
+4. **(Best Paper)** Cheng Qian, **Hainan Zhang#**, Lei Sha. HSF: Defending against Jailbreak Attacks with Hidden State Filtering.[C]//WWW2025 Workshop. 
+5. **(CCF A)** Yujing Wang, **Hainan Zhang#**, Liang Pang, Hongwei Zheng, Zhiming Zheng. MaFeRw: Query Rewriting with Multi-Aspect Feedbacks for Retrieval-Augmented Large Language Models.[C]//AAAI 2025. 
+6. **(CCF A)** Yujing Wang, **Hainan Zhang#**, Sijia Wen, Wangjie Qiu, Binghui Guo. Defending Against Sophisticated Poisoning Attacks with RL-based Aggregation in Federated Learning.[C]//AAAI 2025. 
+7. **(CCF A)** Yu Qiu, Sijia Wen, **Hainan Zhang**, Zhiming Zheng. High-Fidelity Polarimetric Implicit 3D Reconstruction with View-Dependent Physical Representation. [C]//AAAI 2025.
+8. **(CCF B)** JiaYing Zheng, **HaiNan Zhang#**, LingXiang Wang, WangJie Qiu, HongWei Zheng, ZhiMing Zheng. Safely Learning with Private Data: A Federated Learning Framework for Large Language Model.[C]//EMNLP 2024 Main. 
+9. **(CCF B)** Xu Wang, **Hainan Zhang#**, Shuai Zhao, Hongshen Chen, Zhuoye Ding, Zhiguo Wan, Bo Cheng, and Yanyan Lan. Debiasing Counterfactual Context with Causal Inference for Multi-turn Dialogue Reasoning[J]. IEEE Transactions on Audio, Speech and Language Processing, 2023. 
 11. **(CCF B)** Zhiping Wang, Pen Lin, **Hainan Zhang#**, Hongshen Chen, Tianhao Li, Zhuoye Ding, Sulong Xu and Jinghe Hu. Automatic Marketing Theme and Commodity Construction System for E-commerce.//EMNLP 2023 Main. 
 12. **(CCF C)** Xu Wang, **Hainan Zhang#**, Shuai Zhao, Hongshen Chen, Bo Cheng, Zhuoye Ding, Sulong Xu, Weipeng Yan, Yanyan Lan. HiBERT: Detecting the illogical patterns with hierarchical BERT for multi-turn dialogue reasoning[J]. Neurocomputing, 2023, 524: 167-177. 
 13. **(CCF B)** Yue Fang, **Hainan Zhang#**, Hongshen Chen, Zhuoye Ding, Bo Long, Yanyan Lan, Yanquan Zhou. From spoken dialogue to formal summary: An utterance rewriting for dialogue summarization.//NAACL 2022. 
@@ -99,7 +95,6 @@ Beyond the Surface: A Solution-Aware Retrieval Model for Competition-level Code 
 * Yujing Wang, 在读硕士23级, 北京航空航天大学
 * Cheng Qian, 在读硕士23级, 北京航空航天大学
 * Jinwen Chen, 在读硕士24级, 北京航空航天大学
-* Shiwen Zhang, 在读硕士24级, 北京航空航天大学
 * Ruiqi Zhang, 在读硕士25级, 北京航空航天大学
 * Shule Lu, 在读硕士25级, 北京航空航天大学
 * Bo Yang, 在读硕士25级, 北京航空航天大学
