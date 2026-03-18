@@ -74,6 +74,8 @@ Hainan Zhang, received her Ph.D. from the Institute of Computing Technology, Chi
 8. Zishuai Zhang, Sihao Yu#, Wenyi Xie, Ying Nie, Junfeng Wang, Zhiming Zheng, Dawei Yin, **Hainan Zhang#**. An Efficient Framework for Whole-Page Reranking via Single-Modal Supervision[J]. arXiv preprint arXiv:2510.16803, 2025
 9. Lingxiang Wang, **Hainan Zhang#**, Zhiming Zheng. Parameter Importance-Driven Continual Learning for Foundation Models[J]. arXiv preprint arXiv:2511.15375, 2025
 10. Qianchi Zhang, **Hainan Zhang#**, Liang Pang, Hongwei Zheng, Zhiming Zheng. Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation[J]. arXiv preprint arXiv:2601.02993, 2026
+11. Ruiqi Zhang, Lingxiang Wang, **Hainan Zhang#**, Zhiming Zheng, Yanyan Lan. From Unfamiliar to Familiar: Detecting Pre-training Data via Gradient Deviations in Large Language Models[J]. arXiv preprint arXiv:2603.04828, 2026
+12. Jinwen Chen, Shuai Gong, Shiwen Zhang, Zheng Zhang, Yachao Zhao, Lingxiang Wang, Haibo Zhou, Yuan Zhan, Wei Lin, **Hainan Zhang#**. LocalSUG: Geography-Aware LLM for Query Suggestion in Local-Life Services[J]. arXiv preprint arXiv:2603.04946, 2026
 
    
 ## 公开或授权专利 Patents
@@ -95,11 +97,11 @@ Hainan Zhang, received her Ph.D. from the Institute of Computing Technology, Chi
 * Lingxiang Wang, 硕转博24级, 北京航空航天大学
 * Qianchi Zhang, 硕转博25级, 北京航空航天大学
 * Zishuai Zhang, 硕转博25级, 北京航空航天大学
+* Jinwen Chen, 硕转博26级, 北京航空航天大学
 * Haofeng Sun, 直博26级, 北京航空航天大学
   
 * Yujing Wang, 在读硕士23级, 北京航空航天大学
 * Cheng Qian, 在读硕士23级, 北京航空航天大学
-* Jinwen Chen, 在读硕士24级, 北京航空航天大学
 * Ruiqi Zhang, 在读硕士25级, 北京航空航天大学
 * Shule Lu, 在读硕士25级, 北京航空航天大学
 * Bo Yang, 在读硕士25级, 北京航空航天大学
