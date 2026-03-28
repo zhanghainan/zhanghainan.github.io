@@ -32,7 +32,7 @@ Hainan Zhang, received her Ph.D. from the Institute of Computing Technology, Chi
 
 
 ## 发表论文 Publications
-1.**(CCF A)** Yuhua Wang, Qinnan Zhang, Li Xiaodong, Huan Zhang, Yifan Sun, Wangjie Qiu, **Hainan Zhang**, Yongxin Tong, Zhiming Zheng. Taming Noise-Induced Prototype Degradation for Privacy-Preserving Personalized Federated Fine-Tuning.[C]//CVPR 2026. 
+1. **(CCF A)** Yuhua Wang, Qinnan Zhang, Li Xiaodong, Huan Zhang, Yifan Sun, Wangjie Qiu, **Hainan Zhang**, Yongxin Tong, Zhiming Zheng. Taming Noise-Induced Prototype Degradation for Privacy-Preserving Personalized Federated Fine-Tuning.[C]//CVPR 2026. 
 2. **(CCF A)** Qianchi Zhang, **Hainan Zhang#**, Liang Pang, Hongwei Zheng, Yongxin Tong, Zhiming Zheng. Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning.[C]//WWW 2026. 
 3. **(CCF A)** Zishuai Zhang, **Hainan Zhang#**, Weihua Li, Qinnan Zhang, Jin Dong, Yongxin Tong, Zhiming Zheng. FedSEA-LLaMA: A Secure, Efficient and Adaptive Federated Splitting Framework for Large Language Models.[C]//AAAI 2026. 
 4. **(CCF C)**  Qianchi Zhang, **Hainan Zhang#**, Liang Pang, Hongwei Zheng, Zhiming Zheng. AdaComp: Extractive Context Compression with Adaptive Predictor for Retrieval-Augmented Large Language Models[C]//KSEM 2026. 
