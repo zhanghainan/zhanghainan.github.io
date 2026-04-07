@@ -1,6 +1,6 @@
 ![我的团队](/docs/team1.jpg)
 ## 个人介绍 Introduction
-张海楠于2019年获得中国科学院计算技术研究所博士学位。博士毕业后，就职于京东推荐研发部，任算法工程师。2023年加入北京航空航天大学人工智能学院未来区块链与隐私计算高精尖创新中心，任副研究员，博士生导师。目前主要研究方向为：自然语言生成、隐私计算、代码生成、对话系统等。在包括ACL、WWW、SIGIR、AAAI、EMNLP等国际学术会议和期刊上，以第一作者和通讯作者发表论文30余篇，发表CCF A类论文14篇、CCF B类论文11篇，申请国家发明专利10余项，并获得AAAI-IAAI2022人工智能创新应用奖、中国仿真学会科学技术一等奖、WWW-WSAI2025最佳论文奖、中国科学院院长优秀奖。受邀担任ICML、NIPS、TKDE、ACL、AAAI、SIGIR等会议审稿人。
+张海楠于2019年获得中国科学院计算技术研究所博士学位。博士毕业后，就职于京东推荐研发部，任算法工程师。2023年加入北京航空航天大学人工智能学院未来区块链与隐私计算高精尖创新中心，任副研究员，博士生导师。目前主要研究方向为：自然语言生成、隐私计算、代码生成、对话系统等。在包括ACL、WWW、SIGIR、AAAI、EMNLP等国际学术会议和期刊上，以第一作者和通讯作者发表论文30余篇，发表CCF A类论文16篇、CCF B类论文11篇，申请国家发明专利10余项，并获得AAAI-IAAI2022人工智能创新应用奖、中国仿真学会科学技术一等奖、WWW-WSAI2025最佳论文奖、中国科学院院长优秀奖。受邀担任ICML、NIPS、TKDE、ACL、AAAI、SIGIR等会议审稿人。
 
 Hainan Zhang, received her Ph.D. from the Institute of Computing Technology, Chinese Academy of Sciences in 2019. After graduation, she worked as an algorithm engineer in the R&D department, JD.com. She is now a full-time Associate Research Professor in the Artificial Intelligence Institute of Beihang University. Her main research directions are: natural language generation, privacy computing, code generation, dialogue generation, etc. In recent years, she has published 30+ papers as the first author and corresponding author in NLP top conferences and journals, including ACL, WWW, SIGIR, AAAI, EMNLP. What'more, she also applied 10 national invention patents, the AAAI-IAAI2022 AI innovation and Application Award, the first prize of science and technology of China simulation society, the best paper award of WWW-WSAI2025, and the excellent award of the president of the Chinese Academy of Sciences. She was invited to serve as a PC for ICML、NIPS、TKDE、ACL、AAAI、SIGIR and other conferences.
 
@@ -9,6 +9,12 @@ Hainan Zhang, received her Ph.D. from the Institute of Computing Technology, Chi
 深度参与前沿研究，欢迎有保研需求或者博士申请的同学联系我们 ~~ zhanghainan@buaa.edu.cn
 
 ## 近期学术News
+
+**ACL2026 收录2篇**：
+
+(1) Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation
+
+(2) Privacy-Preserving Reasoning with Knowledge-Distilled Parametric Retrieval Augmented Generation
 
 **SIGIR2026 Main收录1篇**：
 
@@ -26,65 +32,54 @@ Hainan Zhang, received her Ph.D. from the Institute of Computing Technology, Chi
 
 (1) FedSEA-LLaMA: A Secure, Efficient and Adaptive Federated Splitting Framework for Large Language Models
 
-**EMNLP2025 Findings收录2篇**：
-
-(1) Detecting Stealthy Backdoor Samples based on Intra-class Distance for Large Language Models
-
-**WWW-WSAI2025 Best Paper Award**:
-
-(1) HSF: Defending against Jailbreak Attacks with Hidden State Filtering
-
 
 ## 发表论文 Publications
-1. **(CCF A)** Zhilin Liang, Yuxiang Wang, Zimu Zhou, **Hainan Zhang**, Boyi Liu, Yongxin Tong. FedMosaic: Federated Retrieval-Augmented Generation via Parametric Adapters[C]//SIGIR 2026. 
-2. **(CCF A)** Yuhua Wang, Qinnan Zhang, Li Xiaodong, Huan Zhang, Yifan Sun, Wangjie Qiu, **Hainan Zhang**, Yongxin Tong, Zhiming Zheng. Taming Noise-Induced Prototype Degradation for Privacy-Preserving Personalized Federated Fine-Tuning.[C]//CVPR 2026. 
-3. **(CCF A)** Qianchi Zhang, **Hainan Zhang#**, Liang Pang, Hongwei Zheng, Yongxin Tong, Zhiming Zheng. Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning.[C]//WWW 2026. 
-4. **(CCF A)** Zishuai Zhang, **Hainan Zhang#**, Weihua Li, Qinnan Zhang, Jin Dong, Yongxin Tong, Zhiming Zheng. FedSEA-LLaMA: A Secure, Efficient and Adaptive Federated Splitting Framework for Large Language Models.[C]//AAAI 2026. 
-5. **(CCF C)**  Qianchi Zhang, **Hainan Zhang#**, Liang Pang, Hongwei Zheng, Zhiming Zheng. AdaComp: Extractive Context Compression with Adaptive Predictor for Retrieval-Augmented Large Language Models[C]//KSEM 2026. 
-6. **(CCF C)**  Lingxiang Wang, **Hainan Zhang#**, Qinnan Zhang, Ziwei Wang, Hongwei Zheng, Jin Dong# and Zhiming Zheng. CodeBC: A More Secure Large Language Model for Smart Contract Code Generation in Blockchain[J]/Neurocomputing, 2026
-7. **(CCF B)** Jinwen Chen, **Hainan Zhang#**, Fei Sun, Qinnan Zhang, Sijia Wen, Ziwei Wang, Zhiming Zheng. Detecting Stealthy Backdoor Samples based on Intra-class Distance for Large Language Models.[C]//EMNLP 2025 Findings.
-8. **(Best Paper)** Cheng Qian, **Hainan Zhang#**, Lei Sha. HSF: Defending against Jailbreak Attacks with Hidden State Filtering.[C]//WWW2025 Workshop. 
-9. **(CCF A)** Yujing Wang, **Hainan Zhang#**, Liang Pang, Hongwei Zheng, Zhiming Zheng. MaFeRw: Query Rewriting with Multi-Aspect Feedbacks for Retrieval-Augmented Large Language Models.[C]//AAAI 2025. 
-10. **(CCF A)** Yujing Wang, **Hainan Zhang#**, Sijia Wen, Wangjie Qiu, Binghui Guo. Defending Against Sophisticated Poisoning Attacks with RL-based Aggregation in Federated Learning.[C]//AAAI 2025. 
-11. **(CCF A)** Yu Qiu, Sijia Wen, **Hainan Zhang**, Zhiming Zheng. High-Fidelity Polarimetric Implicit 3D Reconstruction with View-Dependent Physical Representation. [C]//AAAI 2025.
-12. **(CCF B)** JiaYing Zheng, **HaiNan Zhang#**, LingXiang Wang, WangJie Qiu, HongWei Zheng, ZhiMing Zheng. Safely Learning with Private Data: A Federated Learning Framework for Large Language Model.[C]//EMNLP 2024 Main. 
-13. **(CCF B)** Xu Wang, **Hainan Zhang#**, Shuai Zhao, Hongshen Chen, Zhuoye Ding, Zhiguo Wan, Bo Cheng, and Yanyan Lan. Debiasing Counterfactual Context with Causal Inference for Multi-turn Dialogue Reasoning[J]. IEEE Transactions on Audio, Speech and Language Processing, 2023. 
-14. **(CCF B)** Zhiping Wang, Pen Lin, **Hainan Zhang#**, Hongshen Chen, Tianhao Li, Zhuoye Ding, Sulong Xu and Jinghe Hu. Automatic Marketing Theme and Commodity Construction System for E-commerce.//EMNLP 2023 Main. 
-15. **(CCF C)** Xu Wang, **Hainan Zhang#**, Shuai Zhao, Hongshen Chen, Bo Cheng, Zhuoye Ding, Sulong Xu, Weipeng Yan, Yanyan Lan. HiBERT: Detecting the illogical patterns with hierarchical BERT for multi-turn dialogue reasoning[J]. Neurocomputing, 2023, 524: 167-177. 
-16. **(CCF B)** Yue Fang, **Hainan Zhang#**, Hongshen Chen, Zhuoye Ding, Bo Long, Yanyan Lan, Yanquan Zhou. From spoken dialogue to formal summary: An utterance rewriting for dialogue summarization.//NAACL 2022. 
-17. **(CCF A)** Xueying Zhang, Yanyan Zou, **Hainan Zhang**, Jing Zhou, Shiliang Diao, Jiajia Chen, Zhuoye Ding, Zhen He, Xueqi He, Yun Xiao, Bo Long, Han Yu, Lingfei Wu. Automatic Product Copywriting for E-Commerce[C].//AAAI 2022. 
-18. **(CCF B)** Haoran Xu, **Hainan Zhang#**, Yanyan Zou, Hongshen Chen, Zhuoye Ding and Yanyan Lan. Adaptive Bridge between Training and Inference for Dialogue Generation.[C]//EMNLP2021 Main. 
-19. **(CCF B)** Xu Wang, **Hainan Zhang#**, Shuai Zhao, Yanyan Zou, Hongshen Chen, Zhuoye Ding, Bo Cheng and Yanyan Lan. FCM: A Fine-grained Comparison Model for Multi-turn Dialogue Reasoning.[C]//EMNLP 2021 Findings. 
-20. **(CCF B)** Haolan Zhan, Lei Shen, Hongshen Chen and **Hainan Zhang**. CoLA: A Collaborative Latent Variable Model for Knowledge-Grounded Conversations.[C]//EMNLP 2021 Main.
-21. **(CCF B)** Junpeng Liu, Yanyan Zou, **Hainan Zhang**, Hongshen Chen, Zhuoye Ding, Caixia Yuan and Xiaojie WANG. Topic-Aware Contrastive Learning for Abstractive Dialogue Summarization. [C]//EMNLP 2021 Findings. 
-22. **(CCF B)** Haolan Zhan, **Hainan Zhang#**, Hongshen Chen, Lei Shen, Zhuoye Ding, Weipeng Yan, Yanyan Lan. Augmenting Knowledge-grounded Conversations with Sequential Knowledge Transition.[C]//NAACL 2021. 
-23. **(CCF A)** Haolan Zhan, **Hainan Zhang#**, Hongshen Chen, Lei Shen, Yanyan Lan, Zhuoye Ding and Dawei Yin. Probing Product Description Generation via Posterior Distillation[C]//AAAI 2021. 
-24. **(CCF A)** Haolan Zhan, **Hainan Zhang#**, Hongshen Chen, Lei Shen, Yanyan Lan, Zhuoye Ding and Dawei Yin. User-Inspired Posterior Network for Recommendation Reason Generation[C]//SIGIR 2020.
-25. **(CCF A)** **Hainan Zhang**, Yanyan Lan, Liang Pang, Hongshen Chen, Zhuoye Ding, Dawei Yin. Modeling Topical Relevance for Multi-Turn Dialogue Generation[C]//IJCAI 2020.
-26. **(CCF A)** **Hainan Zhang**, Yanyan Lan, Liang Pang, Jiafeng Guo, Xueqi Cheng. ReCoSa: Detecting the Relevant Contexts with Self-Attention for Multi-turn Dialogue Generation[C]//ACL 2019.
-27. **(CCF A)** **Hainan Zhang**, Yanyan Lan, Jiafeng Guo, Jun Xu, Xueqi Cheng. Reinforcing Coherence for Sequence to Sequence Model in Dialogue Generation[C]// IJCAI 2018.
-28. **(CCF A)** **Hainan Zhang**, Yanyan Lan, Jiafeng Guo, Jun Xu, Xueqi Cheng. Tailored sequence to sequence models to different conversation scenarios[C]//ACL 2018.
-29. **Hainan Zhang**, Yanyan Lan, Jiafeng Guo, Jun Xu, Xueqi Cheng. Neural or Statistical: An Empirical Study on Language Models for Chinese Input Recommendation on Mobile[J]//Lecture Notes of Computer Science. 2018.
-30. **Hainan Zhang**, Dayong Wu, Yue Liu, Xueqi Cheng. Chinese named entity recognition based on deep neural network[J].//Journal of Chinese Information Processing 31 (4), 28-35
-31. **Hainan Zhang**, Tonglei Guo, Yanyan Lan, Jiafeng Guo, Jianing Li and Xueqi Cheng. Gbot at the NTCIR-13 STC-2 Task.[C]//NTCIR 2017.
-32. **(CCF B)** **张海楠**, 伍大勇, 刘悦, 程学旗. 基于深度神经网络的中文命名实体识别[J]. 中文信息学报, 2017, 31(4): 28-35.
-33. 郝长盈、兰艳艳、**张海楠**、郭嘉丰、徐君、程学旗. 基于拓展关键词信息的对话生成模型[J]. 山东大学学报（理工版）, 2019.
+1. **(CCF A)** Qianchi Zhang, **Hainan Zhang#**, Liang Pang, Hongwei Zheng, Zhiming Zheng. Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation[C]//ACL 2026.
+2. **(CCF A)** Jinwen Chen, **Hainan Zhang#**, Liang Pang, Yongxin Tong, Haibo Zhou, Yuan Zhan, Wei Lin, Zhiming Zheng. Privacy-Preserving Reasoning with Knowledge-Distilled Parametric Retrieval Augmented Generation[C]//ACL 2026 Findings. 
+3. **(CCF A)** Zhilin Liang, Yuxiang Wang, Zimu Zhou, **Hainan Zhang**, Boyi Liu, Yongxin Tong. FedMosaic: Federated Retrieval-Augmented Generation via Parametric Adapters[C]//SIGIR 2026. 
+4. **(CCF A)** Yuhua Wang, Qinnan Zhang, Li Xiaodong, Huan Zhang, Yifan Sun, Wangjie Qiu, **Hainan Zhang**, Yongxin Tong, Zhiming Zheng. Taming Noise-Induced Prototype Degradation for Privacy-Preserving Personalized Federated Fine-Tuning.[C]//CVPR 2026. 
+5. **(CCF A)** Qianchi Zhang, **Hainan Zhang#**, Liang Pang, Hongwei Zheng, Yongxin Tong, Zhiming Zheng. Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning.[C]//WWW 2026. 
+6. **(CCF A)** Zishuai Zhang, **Hainan Zhang#**, Weihua Li, Qinnan Zhang, Jin Dong, Yongxin Tong, Zhiming Zheng. FedSEA-LLaMA: A Secure, Efficient and Adaptive Federated Splitting Framework for Large Language Models.[C]//AAAI 2026. 
+7. **(CCF C)**  Qianchi Zhang, **Hainan Zhang#**, Liang Pang, Hongwei Zheng, Zhiming Zheng. AdaComp: Extractive Context Compression with Adaptive Predictor for Retrieval-Augmented Large Language Models[C]//KSEM 2026. 
+8. **(CCF C)**  Lingxiang Wang, **Hainan Zhang#**, Qinnan Zhang, Ziwei Wang, Hongwei Zheng, Jin Dong# and Zhiming Zheng. CodeBC: A More Secure Large Language Model for Smart Contract Code Generation in Blockchain[J]/Neurocomputing, 2026
+9. **(CCF B)** Jinwen Chen, **Hainan Zhang#**, Fei Sun, Qinnan Zhang, Sijia Wen, Ziwei Wang, Zhiming Zheng. Detecting Stealthy Backdoor Samples based on Intra-class Distance for Large Language Models.[C]//EMNLP 2025 Findings.
+10. **(Best Paper)** Cheng Qian, **Hainan Zhang#**, Lei Sha. HSF: Defending against Jailbreak Attacks with Hidden State Filtering.[C]//WWW2025 Workshop. 
+11. **(CCF A)** Yujing Wang, **Hainan Zhang#**, Liang Pang, Hongwei Zheng, Zhiming Zheng. MaFeRw: Query Rewriting with Multi-Aspect Feedbacks for Retrieval-Augmented Large Language Models.[C]//AAAI 2025. 
+12. **(CCF A)** Yujing Wang, **Hainan Zhang#**, Sijia Wen, Wangjie Qiu, Binghui Guo. Defending Against Sophisticated Poisoning Attacks with RL-based Aggregation in Federated Learning.[C]//AAAI 2025. 
+13. **(CCF A)** Yu Qiu, Sijia Wen, **Hainan Zhang**, Zhiming Zheng. High-Fidelity Polarimetric Implicit 3D Reconstruction with View-Dependent Physical Representation. [C]//AAAI 2025.
+14. **(CCF B)** JiaYing Zheng, **HaiNan Zhang#**, LingXiang Wang, WangJie Qiu, HongWei Zheng, ZhiMing Zheng. Safely Learning with Private Data: A Federated Learning Framework for Large Language Model.[C]//EMNLP 2024. 
+15. **(CCF B)** Xu Wang, **Hainan Zhang#**, Shuai Zhao, Hongshen Chen, Zhuoye Ding, Zhiguo Wan, Bo Cheng, and Yanyan Lan. Debiasing Counterfactual Context with Causal Inference for Multi-turn Dialogue Reasoning[J]. IEEE Transactions on Audio, Speech and Language Processing, 2023. 
+16. **(CCF B)** Zhiping Wang, Pen Lin, **Hainan Zhang#**, Hongshen Chen, Tianhao Li, Zhuoye Ding, Sulong Xu and Jinghe Hu. Automatic Marketing Theme and Commodity Construction System for E-commerce.//EMNLP 2023 Main. 
+17. **(CCF C)** Xu Wang, **Hainan Zhang#**, Shuai Zhao, Hongshen Chen, Bo Cheng, Zhuoye Ding, Sulong Xu, Weipeng Yan, Yanyan Lan. HiBERT: Detecting the illogical patterns with hierarchical BERT for multi-turn dialogue reasoning[J]. Neurocomputing, 2023, 524: 167-177. 
+18. **(CCF B)** Yue Fang, **Hainan Zhang#**, Hongshen Chen, Zhuoye Ding, Bo Long, Yanyan Lan, Yanquan Zhou. From spoken dialogue to formal summary: An utterance rewriting for dialogue summarization.//NAACL 2022. 
+19. **(CCF A)** Xueying Zhang, Yanyan Zou, **Hainan Zhang**, Jing Zhou, Shiliang Diao, Jiajia Chen, Zhuoye Ding, Zhen He, Xueqi He, Yun Xiao, Bo Long, Han Yu, Lingfei Wu. Automatic Product Copywriting for E-Commerce[C].//AAAI 2022. 
+20. **(CCF B)** Haoran Xu, **Hainan Zhang#**, Yanyan Zou, Hongshen Chen, Zhuoye Ding and Yanyan Lan. Adaptive Bridge between Training and Inference for Dialogue Generation.[C]//EMNLP2021 Main. 
+21. **(CCF B)** Xu Wang, **Hainan Zhang#**, Shuai Zhao, Yanyan Zou, Hongshen Chen, Zhuoye Ding, Bo Cheng and Yanyan Lan. FCM: A Fine-grained Comparison Model for Multi-turn Dialogue Reasoning.[C]//EMNLP 2021 Findings. 
+22. **(CCF B)** Haolan Zhan, Lei Shen, Hongshen Chen and **Hainan Zhang**. CoLA: A Collaborative Latent Variable Model for Knowledge-Grounded Conversations.[C]//EMNLP 2021 Main.
+23. **(CCF B)** Junpeng Liu, Yanyan Zou, **Hainan Zhang**, Hongshen Chen, Zhuoye Ding, Caixia Yuan and Xiaojie WANG. Topic-Aware Contrastive Learning for Abstractive Dialogue Summarization. [C]//EMNLP 2021 Findings. 
+24. **(CCF B)** Haolan Zhan, **Hainan Zhang#**, Hongshen Chen, Lei Shen, Zhuoye Ding, Weipeng Yan, Yanyan Lan. Augmenting Knowledge-grounded Conversations with Sequential Knowledge Transition.[C]//NAACL 2021. 
+25. **(CCF A)** Haolan Zhan, **Hainan Zhang#**, Hongshen Chen, Lei Shen, Yanyan Lan, Zhuoye Ding and Dawei Yin. Probing Product Description Generation via Posterior Distillation[C]//AAAI 2021. 
+26. **(CCF A)** Haolan Zhan, **Hainan Zhang#**, Hongshen Chen, Lei Shen, Yanyan Lan, Zhuoye Ding and Dawei Yin. User-Inspired Posterior Network for Recommendation Reason Generation[C]//SIGIR 2020.
+27. **(CCF A)** **Hainan Zhang**, Yanyan Lan, Liang Pang, Hongshen Chen, Zhuoye Ding, Dawei Yin. Modeling Topical Relevance for Multi-Turn Dialogue Generation[C]//IJCAI 2020.
+28. **(CCF A)** **Hainan Zhang**, Yanyan Lan, Liang Pang, Jiafeng Guo, Xueqi Cheng. ReCoSa: Detecting the Relevant Contexts with Self-Attention for Multi-turn Dialogue Generation[C]//ACL 2019.
+29. **(CCF A)** **Hainan Zhang**, Yanyan Lan, Jiafeng Guo, Jun Xu, Xueqi Cheng. Reinforcing Coherence for Sequence to Sequence Model in Dialogue Generation[C]// IJCAI 2018.
+30. **(CCF A)** **Hainan Zhang**, Yanyan Lan, Jiafeng Guo, Jun Xu, Xueqi Cheng. Tailored sequence to sequence models to different conversation scenarios[C]//ACL 2018.
+31. **(CCF B)** **张海楠**, 伍大勇, 刘悦, 程学旗. 基于深度神经网络的中文命名实体识别[J]. 中文信息学报, 2017, 31(4): 28-35.
  
 ### 预印论文 PrePrint
 1. Yujing Wang, **Hainan Zhang#**, Liang Pang, Yongxin Tong, Binghui Guo, Hongwei Zheng, Zhiming Zheng. Learning to Erase Private Knowledge from Multi-Documents for Retrieval-Augmented Large Language Models[J]. arXiv preprint arXiv:2504.09910, 2025.
 2. Cheng Qian, **Hainan Zhang#**, Yongxin Tong, Hong-Wei Zheng, Zhiming Zheng. HyFedRAG: A Federated Retrieval-Augmented Generation Framework for Heterogeneous and Privacy-Sensitive Data. [J]. arXiv preprint arXiv:2509.06444, 2025.
-3. Jinwen Chen, **Hainan Zhang#**, Liang Pang, Yongxin Tong, Haibo Zhou, Yuan Zhan, Wei Lin, Zhiming Zheng. Privacy-Preserving Reasoning with Knowledge-Distilled Parametric Retrieval Augmented Generation. [J]. arXiv preprint arXiv:2509.01088, 2025.
-4. JiaYing Zheng, **Hainan Zhang#**, Liang Pang, YongXin Tong, ZhiMing Zheng. Can Synthetic Query Rewrites Capture User Intent Better than Humans in Retrieval-Augmented Generation?[J]. arXiv preprint arXiv:2509.22325, 2025.
-5. Shule Lu, Lingxiang Wang, Sijia Wen, Ziwei Wang, **Hainan Zhang#**. FedDTRE: Federated Dialogue Generation Models Powered by Trustworthiness Evaluation[J]. arXiv preprint arXiv:2510.08058, 2025
-6. Zishuai Zhang, Sihao Yu#, Wenyi Xie, Ying Nie, Junfeng Wang, Zhiming Zheng, Dawei Yin, **Hainan Zhang#**. An Efficient Framework for Whole-Page Reranking via Single-Modal Supervision[J]. arXiv preprint arXiv:2510.16803, 2025
-7. Lingxiang Wang, **Hainan Zhang#**, Zhiming Zheng. Parameter Importance-Driven Continual Learning for Foundation Models[J]. arXiv preprint arXiv:2511.15375, 2025
-8. Qianchi Zhang, **Hainan Zhang#**, Liang Pang, Hongwei Zheng, Zhiming Zheng. Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation[J]. arXiv preprint arXiv:2601.02993, 2026
-9. Ruiqi Zhang, Lingxiang Wang, **Hainan Zhang#**, Zhiming Zheng, Yanyan Lan. From Unfamiliar to Familiar: Detecting Pre-training Data via Gradient Deviations in Large Language Models[J]. arXiv preprint arXiv:2603.04828, 2026
-10. Jinwen Chen, Shuai Gong, Shiwen Zhang, Zheng Zhang, Yachao Zhao, Lingxiang Wang, Haibo Zhou, Yuan Zhan, Wei Lin, **Hainan Zhang#**. LocalSUG: Geography-Aware LLM for Query Suggestion in Local-Life Services[J]. arXiv preprint arXiv:2603.04946, 2026
+3. JiaYing Zheng, **Hainan Zhang#**, Liang Pang, YongXin Tong, ZhiMing Zheng. Can Synthetic Query Rewrites Capture User Intent Better than Humans in Retrieval-Augmented Generation?[J]. arXiv preprint arXiv:2509.22325, 2025.
+4. Shule Lu, Lingxiang Wang, Sijia Wen, Ziwei Wang, **Hainan Zhang#**. FedDTRE: Federated Dialogue Generation Models Powered by Trustworthiness Evaluation[J]. arXiv preprint arXiv:2510.08058, 2025
+5. Zishuai Zhang, Sihao Yu#, Wenyi Xie, Ying Nie, Junfeng Wang, Zhiming Zheng, Dawei Yin, **Hainan Zhang#**. An Efficient Framework for Whole-Page Reranking via Single-Modal Supervision[J]. arXiv preprint arXiv:2510.16803, 2025
+6. Lingxiang Wang, **Hainan Zhang#**, Zhiming Zheng. Parameter Importance-Driven Continual Learning for Foundation Models[J]. arXiv preprint arXiv:2511.15375, 2025
+7. Ruiqi Zhang, Lingxiang Wang, **Hainan Zhang#**, Zhiming Zheng, Yanyan Lan. From Unfamiliar to Familiar: Detecting Pre-training Data via Gradient Deviations in Large Language Models[J]. arXiv preprint arXiv:2603.04828, 2026
+8. Jinwen Chen, Shuai Gong, Shiwen Zhang, Zheng Zhang, Yachao Zhao, Lingxiang Wang, Haibo Zhou, Yuan Zhan, Wei Lin, **Hainan Zhang#**. LocalSUG: Geography-Aware LLM for Query Suggestion in Local-Life Services[J]. arXiv preprint arXiv:2603.04946, 2026
+9. Shule Lu, Yujing Wang, Hainan Zhang, Xiaoshan Yang, Hongwei Zheng, Yongxin Tong, Changsheng Xu, Zhiming Zheng. Replacing Parameters with Preferences: Federated Alignment of Heterogeneous Vision-Language Models[J]. arXiv preprint arXiv:2602.00485, 2026
 
    
 ## 公开或授权专利 Patents
-1. 张海楠等. 一种基于强化学习的自适应聚合防御复杂投毒攻击方法. CN202411453984.9
+1. 张海楠等. 文本输出方法、装置、设备以及存储介质. CN202110586299.3
 2. 张海楠等. 一种利用隐藏状态过滤的防隐私攻击方法及装置. CN202411512708.5
 3. 张海楠等. 基于隐私保护的分布式数据处理方法和装置. CN202411809145.6(已授权）
 4. 张海楠等. 一种区块链智能合约代码生成大型语言模型的方法. 	CN202411494298.6(已授权）
@@ -95,7 +90,6 @@ Hainan Zhang, received her Ph.D. from the Institute of Computing Technology, Chi
 9. 张海楠等. 推荐理由生成方法、装置、设备及存储介质. CN202010619641.0 (已授权）
 10. 张海楠等. 用于确定信息的方法和装置. CN202210151466.6(已授权）
 11. 张海楠等. 物品文案生成网络训练方法、物品文案生成方法、装置. CN202110084578.X(已授权）
-12. 张海楠等. 文本输出方法、装置、设备以及存储介质. CN202110586299.3
 
 ## 在读学生 Current Students
 * Jiaying Zheng, 在读博士23级, 北京航空航天大学
@@ -111,6 +105,7 @@ Hainan Zhang, received her Ph.D. from the Institute of Computing Technology, Chi
 * Shule Lu, 在读硕士25级, 北京航空航天大学
 * Bo Yang, 在读硕士25级, 北京航空航天大学
 * Nuoran Teng, 在读硕士26级, 北京航空航天大学
+* Lingkai Yang, 在读硕士26级, 北京航空航天大学
 
 ## 已毕业学生 Graduated Students
 * Haolan Zhan, 在读博士，莫纳什大学
