@@ -10,11 +10,13 @@ Hainan Zhang, received her Ph.D. from the Institute of Computing Technology, Chi
 
 ## 近期学术News
 
-**ACL2026 收录2篇**：
+**ACL2026 收录3篇**：
 
 (1) Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation
 
 (2) Privacy-Preserving Reasoning with Knowledge-Distilled Parametric Retrieval Augmented Generation
+
+(3) An Efficient Framework for Whole-Page Reranking via Single-Modal Supervision
 
 **SIGIR2026 Main收录1篇**：
 
