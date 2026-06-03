@@ -78,6 +78,7 @@ Hainan Zhang, received her Ph.D. from the Institute of Computing Technology, Chi
 6. Ruiqi Zhang, Lingxiang Wang, **Hainan Zhang#**, Zhiming Zheng, Yanyan Lan. From Unfamiliar to Familiar: Detecting Pre-training Data via Gradient Deviations in Large Language Models[J]. arXiv preprint arXiv:2603.04828, 2026
 7. Jinwen Chen, Shuai Gong, Shiwen Zhang, Zheng Zhang, Yachao Zhao, Lingxiang Wang, Haibo Zhou, Yuan Zhan, Wei Lin, **Hainan Zhang#**. LocalSUG: Geography-Aware LLM for Query Suggestion in Local-Life Services[J]. arXiv preprint arXiv:2603.04946, 2026
 8. Shule Lu, Yujing Wang, **Hainan Zhang#**, Xiaoshan Yang, Hongwei Zheng, Yongxin Tong, Changsheng Xu, Zhiming Zheng. Replacing Parameters with Preferences: Federated Alignment of Heterogeneous Vision-Language Models[J]. arXiv preprint arXiv:2602.00485, 2026
+9. Ruiqi Zhang, Lingxiang Wang, **Hainan Zhang#**, Zhiming Zheng. Robust Reasoning via Dynamic Token Selection \\for Distribution-Aligned Self-Distillation[J]. arXiv preprint arXiv:XXX.XXX, 2026
 
    
 ## 公开或授权专利 Patents
@@ -100,9 +101,8 @@ Hainan Zhang, received her Ph.D. from the Institute of Computing Technology, Chi
 * Zishuai Zhang, 硕转博25级, 北京航空航天大学
 * Jinwen Chen, 硕转博26级, 北京航空航天大学
 * Haofeng Sun, 直博26级, 北京航空航天大学
+
   
-* Yujing Wang, 在读硕士23级, 北京航空航天大学
-* Cheng Qian, 在读硕士23级, 北京航空航天大学
 * Ruiqi Zhang, 在读硕士25级, 北京航空航天大学
 * Shule Lu, 在读硕士25级, 北京航空航天大学
 * Bo Yang, 在读硕士25级, 北京航空航天大学
@@ -110,10 +110,12 @@ Hainan Zhang, received her Ph.D. from the Institute of Computing Technology, Chi
 * Lingkai Yang, 在读硕士26级, 北京航空航天大学
 
 ## 已毕业学生 Graduated Students
-* Haolan Zhan, 在读博士，莫纳什大学
+* Haolan Zhan, 读博，莫纳什大学
 * Xu Wang, 讲师, 河北工业大学
 * Haoran Xu, 算法工程师, 拼多多
-* Yue Fang, 在读博士，北京大学
+* Yue Fang, 读博，北京大学
+* Yujing Wang, 读博, 英国
+* Cheng Qian, 读博, 新加坡
 
 ## 与我联系 Contact Me
 zhanghainan@buaa.edu.cn
