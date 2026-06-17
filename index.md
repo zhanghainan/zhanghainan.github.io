@@ -1,6 +1,6 @@
 ![我的团队](/docs/team1.jpg)
 ## 个人介绍 Introduction
-张海楠于2019年获得中国科学院计算技术研究所博士学位。博士毕业后，就职于京东推荐研发部，任算法工程师。2023年加入北京航空航天大学人工智能学院未来区块链与隐私计算高精尖创新中心，任副研究员，博士生导师。目前主要研究方向为：自然语言生成、隐私计算、代码生成、对话系统等。在包括ACL、WWW、SIGIR、AAAI、EMNLP等国际学术会议和期刊上，以第一作者和通讯作者发表论文30余篇，发表CCF A类论文17篇、CCF B类论文11篇，申请国家发明专利10余项，并获得AAAI-IAAI2022人工智能创新应用奖、中国仿真学会科学技术一等奖、WWW-WSAI2025最佳论文奖、中国科学院院长优秀奖。受邀担任ICML、NIPS、TKDE、ACL、AAAI、SIGIR等会议审稿人。
+张海楠于2019年获得中国科学院计算技术研究所博士学位。博士毕业后，就职于京东推荐研发部，任算法工程师。2023年加入北京航空航天大学人工智能学院未来区块链与隐私计算高精尖创新中心，任副研究员，博士生导师。目前主要研究方向为：自然语言生成、隐私计算、代码生成、对话系统等。在包括ACL、WWW、SIGIR、AAAI、EMNLP等国际学术会议和期刊上，以第一作者和通讯作者发表论文30余篇，发表CCF A类论文16篇、CCF B类论文11篇，申请国家发明专利10余项，并获得AAAI-IAAI2022人工智能创新应用奖、中国仿真学会科学技术一等奖、WWW-WSAI2025最佳论文奖、中国科学院院长优秀奖。受邀担任ICML、NIPS、TKDE、ACL、AAAI、SIGIR等会议审稿人。
 
 Hainan Zhang, received her Ph.D. from the Institute of Computing Technology, Chinese Academy of Sciences in 2019. After graduation, she worked as an algorithm engineer in the R&D department, JD.com. She is now a full-time Associate Research Professor in the Artificial Intelligence Institute of Beihang University. Her main research directions are: natural language generation, privacy computing, code generation, dialogue generation, etc. In recent years, she has published 30+ papers as the first author and corresponding author in NLP top conferences and journals, including ACL, WWW, SIGIR, AAAI, EMNLP. What'more, she also applied 10 national invention patents, the AAAI-IAAI2022 AI innovation and Application Award, the first prize of science and technology of China simulation society, the best paper award of WWW-WSAI2025, and the excellent award of the president of the Chinese Academy of Sciences. She was invited to serve as a PC for ICML、NIPS、TKDE、ACL、AAAI、SIGIR and other conferences.
 
@@ -65,9 +65,8 @@ Hainan Zhang, received her Ph.D. from the Institute of Computing Technology, Chi
 27. **(CCF A)** Haolan Zhan, **Hainan Zhang#**, Hongshen Chen, Lei Shen, Yanyan Lan, Zhuoye Ding and Dawei Yin. User-Inspired Posterior Network for Recommendation Reason Generation[C]//SIGIR 2020.
 28. **(CCF A)** **Hainan Zhang**, Yanyan Lan, Liang Pang, Hongshen Chen, Zhuoye Ding, Dawei Yin. Modeling Topical Relevance for Multi-Turn Dialogue Generation[C]//IJCAI 2020.
 29. **(CCF A)** **Hainan Zhang**, Yanyan Lan, Liang Pang, Jiafeng Guo, Xueqi Cheng. ReCoSa: Detecting the Relevant Contexts with Self-Attention for Multi-turn Dialogue Generation[C]//ACL 2019.
-30. **(CCF A)** **Hainan Zhang**, Yanyan Lan, Jiafeng Guo, Jun Xu, Xueqi Cheng. Reinforcing Coherence for Sequence to Sequence Model in Dialogue Generation[C]// IJCAI 2018.
-31. **(CCF A)** **Hainan Zhang**, Yanyan Lan, Jiafeng Guo, Jun Xu, Xueqi Cheng. Tailored sequence to sequence models to different conversation scenarios[C]//ACL 2018.
-32. **(CCF B)** **张海楠**, 伍大勇, 刘悦, 程学旗. 基于深度神经网络的中文命名实体识别[J]. 中文信息学报, 2017, 31(4): 28-35.
+30. **(CCF A)** **Hainan Zhang**, Yanyan Lan, Jiafeng Guo, Jun Xu, Xueqi Cheng. Tailored sequence to sequence models to different conversation scenarios[C]//ACL 2018.
+31. **(CCF B)** **张海楠**, 伍大勇, 刘悦, 程学旗. 基于深度神经网络的中文命名实体识别[J]. 中文信息学报, 2017, 31(4): 28-35.
  
 ### 预印论文 PrePrint
 1. Yujing Wang, **Hainan Zhang#**, Liang Pang, Yongxin Tong, Binghui Guo, Hongwei Zheng, Zhiming Zheng. Learning to Erase Private Knowledge from Multi-Documents for Retrieval-Augmented Large Language Models[J]. arXiv preprint arXiv:2504.09910, 2025.
