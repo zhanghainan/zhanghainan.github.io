@@ -66,7 +66,8 @@ Hainan Zhang, received her Ph.D. from the Institute of Computing Technology, Chi
 28. **(CCF A)** **Hainan Zhang**, Yanyan Lan, Liang Pang, Hongshen Chen, Zhuoye Ding, Dawei Yin. Modeling Topical Relevance for Multi-Turn Dialogue Generation[C]//IJCAI 2020.
 29. **(CCF A)** **Hainan Zhang**, Yanyan Lan, Liang Pang, Jiafeng Guo, Xueqi Cheng. ReCoSa: Detecting the Relevant Contexts with Self-Attention for Multi-turn Dialogue Generation[C]//ACL 2019.
 30. **(CCF A)** **Hainan Zhang**, Yanyan Lan, Jiafeng Guo, Jun Xu, Xueqi Cheng. Tailored sequence to sequence models to different conversation scenarios[C]//ACL 2018.
-31. **(CCF B)** **张海楠**, 伍大勇, 刘悦, 程学旗. 基于深度神经网络的中文命名实体识别[J]. 中文信息学报, 2017, 31(4): 28-35.
+31. 卢树乐, 王凌翔, 张沁楠, 温思嘉, **张海楠#**. FedDTRE：基于信任性评估的联邦对话生成模型[C]//CCIR 2026.
+32. **(CCF B)** **张海楠**, 伍大勇, 刘悦, 程学旗. 基于深度神经网络的中文命名实体识别[J]. 中文信息学报, 2017, 31(4): 28-35.
  
 ### 预印论文 PrePrint
 1. Yujing Wang, **Hainan Zhang#**, Liang Pang, Yongxin Tong, Binghui Guo, Hongwei Zheng, Zhiming Zheng. Learning to Erase Private Knowledge from Multi-Documents for Retrieval-Augmented Large Language Models[J]. arXiv preprint arXiv:2504.09910, 2025.
@@ -77,12 +78,12 @@ Hainan Zhang, received her Ph.D. from the Institute of Computing Technology, Chi
 6. Ruiqi Zhang, Lingxiang Wang, **Hainan Zhang#**, Zhiming Zheng, Yanyan Lan. From Unfamiliar to Familiar: Detecting Pre-training Data via Gradient Deviations in Large Language Models[J]. arXiv preprint arXiv:2603.04828, 2026
 7. Jinwen Chen, Shuai Gong, Shiwen Zhang, Zheng Zhang, Yachao Zhao, Lingxiang Wang, Haibo Zhou, Yuan Zhan, Wei Lin, **Hainan Zhang#**. LocalSUG: Geography-Aware LLM for Query Suggestion in Local-Life Services[J]. arXiv preprint arXiv:2603.04946, 2026
 8. Shule Lu, Yujing Wang, **Hainan Zhang#**, Xiaoshan Yang, Hongwei Zheng, Yongxin Tong, Changsheng Xu, Zhiming Zheng. Replacing Parameters with Preferences: Federated Alignment of Heterogeneous Vision-Language Models[J]. arXiv preprint arXiv:2602.00485, 2026
-9. Ruiqi Zhang, Lingxiang Wang, **Hainan Zhang#**, Zhiming Zheng. Robust Reasoning via Dynamic Token Selection \\for Distribution-Aligned Self-Distillation[J]. arXiv preprint arXiv:XXX.XXX, 2026
+9. Ruiqi Zhang, Lingxiang Wang, **Hainan Zhang#**, Zhiming Zheng. Robust Reasoning via Dynamic Token Selection for Distribution-Aligned Self-Distillation[J]. arXiv preprint arXiv:2606.00628, 2026
 
    
 ## 公开或授权专利 Patents
 1. 张海楠等. 文本输出方法、装置、设备以及存储介质. CN202110586299.3
-2. 张海楠等. 一种利用隐藏状态过滤的防隐私攻击方法及装置. CN202411512708.5
+2. 张海楠等. 一种利用隐藏状态过滤的防隐私攻击方法及装置. CN202411512708.5(已授权）
 3. 张海楠等. 基于隐私保护的分布式数据处理方法和装置. CN202411809145.6(已授权）
 4. 张海楠等. 一种区块链智能合约代码生成大型语言模型的方法. 	CN202411494298.6(已授权）
 5. 张海楠等. 文案检测方法、装置、设备及计算机可读存储介质. CN202210952230.2
@@ -113,7 +114,7 @@ Hainan Zhang, received her Ph.D. from the Institute of Computing Technology, Chi
 * Xu Wang, 讲师, 河北工业大学
 * Haoran Xu, 算法工程师, 拼多多
 * Yue Fang, 读博，北京大学
-* Yujing Wang, 读博, 英国
+* Yujing Wang, 读博, 伦敦国王学院
 * Cheng Qian, 读博, 新加坡
 
 ## 与我联系 Contact Me
