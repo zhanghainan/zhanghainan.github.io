@@ -96,6 +96,7 @@ Hainan Zhang, received her Ph.D. from the Institute of Computing Technology, Chi
 4. Ruiqi Zhang, Lingxiang Wang, **Hainan Zhang#**, Zhiming Zheng, Yanyan Lan. From Unfamiliar to Familiar: Detecting Pre-training Data via Gradient Deviations in Large Language Models[J]. arXiv preprint arXiv:2603.04828, 2026
 5. Shule Lu, **Hainan Zhang#**, Yujing Wang, Xiaoshan Yang, Hongwei Zheng, Yongxin Tong, Zhiming Zheng. Replacing Parameters with Preferences: Federated Alignment of Heterogeneous Vision-Language Models[J]. arXiv preprint arXiv:2602.00485, 2026
 6. Ruiqi Zhang, Lingxiang Wang, **Hainan Zhang#**, Zhiming Zheng. Robust Reasoning via Dynamic Token Selection for Distribution-Aligned Self-Distillation[J]. arXiv preprint arXiv:2606.00628, 2026
+7. Zishuai Zhang, Hainan Zhang, Liang Pang, Weihua Li, Zhiming Zheng. GRASS: Gradient-Shift Signals for Generalizable Hallucination Detection in Large Language Models[J]. arXiv preprint arXiv:2606.29545, 2026.
 
    
 ## 公开或授权专利 Patents
